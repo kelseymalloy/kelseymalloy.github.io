@@ -6,7 +6,7 @@ description: Univ. Miami Rosenstiel School of Marine & Atmospheric Science
 
 profile:
   align: right
-  image: headshot_malloy.png
+  image: /assets/img/headshot_malloy.png
   #bio: 
 
 news: false
