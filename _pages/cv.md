@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cv/
-title: Curriculum Vitae
+title: CV
 description: Education, Publications, Extracurriculars, Skills.
 ---
 
