@@ -32,7 +32,7 @@ scholar_userid: wYovfMsAAAAJ # your Google Scholar ID
 blogger_url: https://seasonedchaos.github.io # your blogger URL
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  The best ways to contact me are through email or twitter.
 
 #google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
@@ -81,7 +81,7 @@ news_limit: 5
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 # Includes & excludes
 include: ['_pages']
