@@ -8,7 +8,7 @@ profile:
   align: right
   image: headshot_malloy.jpg
   address: >
-    <p>Univ. Miami</p>
+    <p>University of Miami</p>
     <p>Rosenstiel School of Marine & Atmospheric Science</p>
 
 news: false
