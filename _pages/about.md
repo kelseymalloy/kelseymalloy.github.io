@@ -6,7 +6,7 @@ description: 3rd-year Ph.D. Student
 
 profile:
   align: right
-  image: headshot_malloy.png
+  image: headshot_malloy.jpg
   address: >
     <p>Univ. Miami</p>
     <p>Rosenstiel School of Marine & Atmospheric Science</p>
