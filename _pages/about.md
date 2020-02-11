@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: About
 permalink: /
 title: Kelsey Malloy
 description: 3rd-year Ph.D. Student
