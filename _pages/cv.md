@@ -23,7 +23,18 @@ B.S.: University of Maryland, College Park&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Minor: Remote Sensing of Environmental Change
 
 ### Research Experience
+Graduate Research Assistant, Univ. Miami Rosenstiel School &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Fall 2018-Present</i>
++ Prediction of summertime continental United States southerly low-level jets and associated precipitation 3-4 weeks in advance
+  - Using Python for reading and visualizing data
+  -	Low-frequency variability analysis on:
+    *	NASA and NOAA reanalysis and observational datasets (MERRA-2, ERSST, NCEP/NCAR, etc.)
+    *	Community Climate System Model, v4 (CCSM4) output
+  - Community Earth System Model (CESM1.2) setup, build, & run
+  - Setup and run idealized forcing with an in-house dry nonlinear baroclinic model 
+  - Oral presentation at RSMAS 2019 Student Seminar
+  - Poster presentation at 2020 AMS annual meeting
 
+  
 ### Teaching Experience
 
 ### Relevant Extracurriculars & Service
@@ -38,4 +49,6 @@ Founder, [Seasoned Chaos](https://seasonedchaos.github.io) blog about subseasona
 * Tutoring and teaching experience from middle school to graduate level
 * Languages (in order of proficiency): Python, Matlab, Shell, Git Bash, Fortran, Markdown/HTML, NCAR Command Language (NCL), C
 * Software/Operating Systems (no particular order): Linux/Unix, Git Bash, Microsoft Office (Word, Excel, Powerpoint, etc.), Adobe Illustrator
-* Models & datasets (no particular order): Community Climate/Earth System Model (CCSM/CESM), in-house dry nonlinear baroclinic model, THREDDS server Data, NCEP/NCAR Final Reanalysis Project data, MERRA-2 Reanalysis, NARR Reanalysis, WRF output, Satellite imagery
+* 2017 University of Maryland Undergraduate Research of the Year
+* 2017 University of Maryland Philip Merrill Presidential Scholar
+* 2015-2016 NOAA Ernest F. Hollings Scholar
