@@ -24,7 +24,7 @@ B.S.: University of Maryland, College Park&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 
 ### Research Experience
 Graduate Research Assistant, Univ. Miami Rosenstiel School &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Fall 2018-Present</i>
-+ Prediction of summertime continental United States southerly low-level jets and associated precipitation 3-4 weeks in advance
++ Predictability of summer continental United States southerly low-level jets and associated precipitation 3-4 weeks in advance through further understanding of teleconnections
   - Using Python for reading and visualizing data
   -	Low-frequency variability analysis on:
     *	NASA and NOAA reanalysis and observational datasets (MERRA-2, ERSST, NCEP/NCAR, etc.)
@@ -33,9 +33,36 @@ Graduate Research Assistant, Univ. Miami Rosenstiel School &nbsp;&nbsp;&nbsp;&nb
   - Setup and run idealized forcing with an in-house dry nonlinear baroclinic model 
   - Oral presentation at RSMAS 2019 Student Seminar
   - Poster presentation at 2020 AMS annual meeting
-
+<br>Intern, NOAA Climate and Weather Prediction Center, Ocean Prediction Center &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Fall 2016-Spring 2017</i>
++ Building case study analysis of stratospheric air intrusion events and improving hurricane-force wind forecasts of extratropical cyclones in Atlantic Ocean using satellite imagery
+  - Primary channels/products: Himawari-8 Airmass RGB product; AIRS, IASI, and ATMS/CrIS total column ozone; Himawari-8 Water Vapor (6.2 μm, 6.9 μm, 7.3 μm); ASCAT winds; AMSR winds; NUCAPS profiles of moisture and temperature
+  -	MERRA-2 Global Reanalysis time-averaged and instantaneous 3-hourly data for cross-sectional analysis
++ Give presentations or instructional kits to Alaskan Weather Forecast Offices and Ocean and Weather Prediction Centers
++ Working with GEMPAK/AWIPS software, Python language for analyzing/visualizing data, Linux/Unix environment
++ Research defended for senior thesis: 
+o	oral prospectus defense in Fall 2016 
+o	poster presentation in Spring 2017
++ Poster presentation at 2017 AMS Annual Meeting
+<br>Intern, NOAA Earth System Research Lab Physical Sciences Division (ESRL/PSD) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Summer 2016</i>
++	Diagnosed case study of atmospheric river event by comparing “present-day” precipitation and moisture transport over western US with simulated “future” case using pseudo-global warming approach
+  - Work with Weather and Research Forecasting (WRF) output to compare control (present-day) run with pseudo-global warming (future) run
+  -	Read papers about Community Earth System Model-Large Ensemble, which was run to produce delta moisture and temperature values to add to WRF
++ Oral presentation at NOAA Hollings Research Symposium
++ Poster presentation at 2017 AMS Annual Meeting
+<br>Intern, UC San Diego Scripps Undergraduate Research Fellowship (SURF) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Summer 2015</i>
++ Compared vertical profiles of Feb. 6th 2015 atmospheric river event using NCEP/NCAR Final Reanalysis model and dropsonde data
+  - Wrote Matlab scripts to read and organize dropsonde and reanalysis data
+  - Wrote Matlab scripts to plot vertical profiles of moisture flux and surface analyses of atmospheric river development
++	Simulated GPS radio occultation techniques (Doppler shift, bending angles, refractivity profiles)
++	Poster presentation at SIO SURF Student Symposium
++	Poster presentation at 2016 AMS Annual Meeting
   
 ### Teaching Experience
+Teaching Assistant for Data Analysis Methods (graduate course) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Present</i>
+<br>Tutor for middle and high school students, for math and science as well as standardized tests &nbsp;&nbsp;&nbsp; <i>Present</i>
+<br>Teaching Assistant for Weather Forecasting &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Spring 2019</i>
+<br>Teaching Assistant for Large-scale Atmospheric & Oceanic Dynamics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Spring 2017</i>
+<br>Teaching Assistant for Atmospheric Thermodynamics	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Fall 2016</i>
 
 ### Relevant Extracurriculars & Service
 Founder, [Seasoned Chaos](https://seasonedchaos.github.io) blog about subseasonal-to-seasonal forecasting &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Present</i>
@@ -49,6 +76,7 @@ Founder, [Seasoned Chaos](https://seasonedchaos.github.io) blog about subseasona
 * Tutoring and teaching experience from middle school to graduate level
 * Languages (in order of proficiency): Python, Matlab, Shell, Git Bash, Fortran, Markdown/HTML, NCAR Command Language (NCL), C
 * Software/Operating Systems (no particular order): Linux/Unix, Git Bash, Microsoft Office (Word, Excel, Powerpoint, etc.), Adobe Illustrator
+* Attended Summer 2018 Weather and Climate Extremes NCAR Tutorial/Workshop
 * 2017 University of Maryland Undergraduate Research of the Year
 * 2017 University of Maryland Philip Merrill Presidential Scholar
 * 2015-2016 NOAA Ernest F. Hollings Scholar
