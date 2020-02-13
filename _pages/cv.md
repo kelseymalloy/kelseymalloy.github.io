@@ -5,6 +5,8 @@ title: CV
 description: Publications, Education, Research, Teaching, Service, Skills.
 ---
 
+[PDF download](/assets/pdf/KelseyMalloy_CV.pdf){:target="_blank"}
+
 ### Publications
 
 Malloy, K.M. and B.P. Kirtman, 2020: Predictability of Midsummer Great Plains Low-Level Jet and Associated Precipitation. <i>Wea. Forecasting</i>, 35, 215–235, [https://doi.org/10.1175/WAF-D-19-0103.1](https://doi.org/10.1175/WAF-D-19-0103.1).
