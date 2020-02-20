@@ -26,7 +26,7 @@ B.S.: University of Maryland, College Park&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 
 ### Research Experience
 #### Graduate Research Assistant, Univ. Miami Rosenstiel School 
-#### <i>Fall 2018-Present</i>
+<i>Fall 2018-Present</i>
 + Predictability of summer continental United States southerly low-level jets and associated precipitation 3-4 weeks in advance through further understanding of teleconnections
 + Using Python for reading and visualizing data
 + Low-frequency variability analysis on:
@@ -38,7 +38,7 @@ B.S.: University of Maryland, College Park&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 + Poster presentation at 2020 AMS annual meeting
 
 #### Intern, NOAA Climate and Weather Prediction Center, Ocean Prediction Center 
-#### <i>Fall 2016-Spring 2017</i>
+<i>Fall 2016-Spring 2017</i>
 + Building case study analysis of stratospheric air intrusion events and improving hurricane-force wind forecasts of extratropical cyclones in Atlantic Ocean using satellite imagery
   - Primary channels/products: Himawari-8 Airmass RGB product; AIRS, IASI, and ATMS/CrIS total column ozone; Himawari-8 Water Vapor (6.2 μm, 6.9 μm, 7.3 μm); ASCAT winds; AMSR winds; NUCAPS profiles of moisture and temperature
   -	MERRA-2 Global Reanalysis time-averaged and instantaneous 3-hourly data for cross-sectional analysis
@@ -50,7 +50,7 @@ B.S.: University of Maryland, College Park&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 + Poster presentation at 2017 AMS Annual Meeting
 
 #### Intern, NOAA Earth System Research Lab Physical Sciences Division (ESRL/PSD) 
-#### <i>Summer 2016</i>
+<i>Summer 2016</i>
 +	Diagnosed case study of atmospheric river event by comparing “present-day” precipitation and moisture transport over western US with simulated “future” case using pseudo-global warming approach
   - Work with Weather and Research Forecasting (WRF) output to compare control (present-day) run with pseudo-global warming (future) run
   -	Read papers about Community Earth System Model-Large Ensemble, which was run to produce delta moisture and temperature values to add to WRF
@@ -58,7 +58,7 @@ B.S.: University of Maryland, College Park&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 + Poster presentation at 2017 AMS Annual Meeting
 
 #### Intern, UC San Diego Scripps Undergraduate Research Fellowship (SURF)
-#### <i>Summer 2015</i>
+<i>Summer 2015</i>
 + Compared vertical profiles of Feb. 6th 2015 atmospheric river event using NCEP/NCAR Final Reanalysis model and dropsonde data
   - Wrote Matlab scripts to read and organize dropsonde and reanalysis data
   - Wrote Matlab scripts to plot vertical profiles of moisture flux and surface analyses of atmospheric river development
