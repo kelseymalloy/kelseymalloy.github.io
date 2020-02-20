@@ -27,16 +27,16 @@ B.S.: University of Maryland, College Park&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 ### Research Experience
 Graduate Research Assistant, Univ. Miami Rosenstiel School &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Fall 2018-Present</i>
 + Predictability of summer continental United States southerly low-level jets and associated precipitation 3-4 weeks in advance through further understanding of teleconnections
-  - Using Python for reading and visualizing data
-  -	Low-frequency variability analysis on:
-    *	NASA and NOAA reanalysis and observational datasets (MERRA-2, ERSST, NCEP/NCAR, etc.)
-    *	Community Climate System Model, v4 (CCSM4) output
-  - Community Earth System Model (CESM1.2) setup, build, & run
-  - Setup and run idealized forcing with an in-house dry nonlinear baroclinic model 
-  - Oral presentation at RSMAS 2019 Student Seminar
-  - Poster presentation at 2020 AMS annual meeting\n\n
++ Using Python for reading and visualizing data
++ Low-frequency variability analysis on:
+  -	NASA and NOAA reanalysis and observational datasets (MERRA-2, ERSST, NCEP/NCAR, etc.)
+  -	Community Climate System Model, v4 (CCSM4) output
++ Community Earth System Model (CESM1.2) setup, build, & run
++ Setup and run idealized forcing with an in-house dry nonlinear baroclinic model 
++ Oral presentation at RSMAS 2019 Student Seminar
++ Poster presentation at 2020 AMS annual meeting\n
 
-Intern, NOAA Climate and Weather Prediction Center, Ocean Prediction Center &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Fall 2016-Spring 2017</i>
+Intern, NOAA Climate and Weather Prediction Center, Ocean Prediction Center &nbsp; <i>Fall 2016-Spring 2017</i>
 + Building case study analysis of stratospheric air intrusion events and improving hurricane-force wind forecasts of extratropical cyclones in Atlantic Ocean using satellite imagery
   - Primary channels/products: Himawari-8 Airmass RGB product; AIRS, IASI, and ATMS/CrIS total column ozone; Himawari-8 Water Vapor (6.2 μm, 6.9 μm, 7.3 μm); ASCAT winds; AMSR winds; NUCAPS profiles of moisture and temperature
   -	MERRA-2 Global Reanalysis time-averaged and instantaneous 3-hourly data for cross-sectional analysis
@@ -45,14 +45,14 @@ Intern, NOAA Climate and Weather Prediction Center, Ocean Prediction Center &nbs
 + Research defended for senior thesis: 
 o	oral prospectus defense in Fall 2016 
 o	poster presentation in Spring 2017
-+ Poster presentation at 2017 AMS Annual Meeting\n\n
++ Poster presentation at 2017 AMS Annual Meeting\n
 
-Intern, NOAA Earth System Research Lab Physical Sciences Division (ESRL/PSD) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Summer 2016</i>
+Intern, NOAA Earth System Research Lab Physical Sciences Division (ESRL/PSD) &nbsp;&nbsp; <i>Summer 2016</i>
 +	Diagnosed case study of atmospheric river event by comparing “present-day” precipitation and moisture transport over western US with simulated “future” case using pseudo-global warming approach
   - Work with Weather and Research Forecasting (WRF) output to compare control (present-day) run with pseudo-global warming (future) run
   -	Read papers about Community Earth System Model-Large Ensemble, which was run to produce delta moisture and temperature values to add to WRF
 + Oral presentation at NOAA Hollings Research Symposium
-+ Poster presentation at 2017 AMS Annual Meeting\n\n
++ Poster presentation at 2017 AMS Annual Meeting\n
 
 Intern, UC San Diego Scripps Undergraduate Research Fellowship (SURF) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Summer 2015</i>
 + Compared vertical profiles of Feb. 6th 2015 atmospheric river event using NCEP/NCAR Final Reanalysis model and dropsonde data
@@ -63,11 +63,11 @@ Intern, UC San Diego Scripps Undergraduate Research Fellowship (SURF) &nbsp;&nbs
 +	Poster presentation at 2016 AMS Annual Meeting
   
 ### Teaching Experience
-Teaching Assistant for Data Analysis Methods (graduate course) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Present</i>
-<br>Tutor for middle and high school students, mostly math and science &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Present</i>
-<br>Teaching Assistant for Weather Forecasting &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Spring 2019</i>
+Teaching Assistant for Data Analysis Methods (graduate course) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Present</i>
+<br>Tutor for middle and high school students, mostly math and science &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Present</i>
+<br>Teaching Assistant for Weather Forecasting &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Spring 2019</i>
 <br>Teaching Assistant for Large-scale Atmospheric & Oceanic Dynamics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Spring 2017</i>
-<br>Teaching Assistant for Atmospheric Thermodynamics	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Fall 2016</i>
+<br>Teaching Assistant for Atmospheric Thermodynamics	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Fall 2016</i>
 
 ### Relevant Extracurriculars & Service
 Founder, [Seasoned Chaos](https://seasonedchaos.github.io) blog about subseasonal-to-seasonal forecasting &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Present</i>
