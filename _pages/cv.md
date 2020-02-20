@@ -89,3 +89,7 @@ Founder, [Seasoned Chaos](https://seasonedchaos.github.io) blog about subseasona
 * 2017 University of Maryland Undergraduate Research of the Year
 * 2017 University of Maryland Philip Merrill Presidential Scholar
 * 2015-2016 NOAA Ernest F. Hollings Scholar
+<br><br>
+<div class="img_row">
+    <img class="col three left" src="{{ site.baseurl }}/assets/img/miamibeach.jpg" alt="" title="Miami Beach skyline with sunset"/>
+</div>
