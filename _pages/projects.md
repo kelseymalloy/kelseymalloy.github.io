@@ -7,6 +7,10 @@ description: Collection of cool projects.
 
 Come back later for some content!
 
+<div class="img_row">
+    <img class="col three left" src="{{ site.baseurl }}/assets/img/scatter.jpg" alt="" title="Scattering rays"/>
+</div>
+
 {% for project in site.projects %}
 
 {% if project.redirect %}
