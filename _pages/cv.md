@@ -43,8 +43,8 @@ B.S.: University of Maryland, College Park&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 + Give presentations or instructional kits to Alaskan Weather Forecast Offices and Ocean and Weather Prediction Centers
 + Working with GEMPAK/AWIPS software, Python language for analyzing/visualizing data, Linux/Unix environment
 + Research defended for senior thesis: 
-o	oral prospectus defense in Fall 2016 
-o	poster presentation in Spring 2017
+  - oral prospectus defense in Fall 2016 
+  - poster presentation in Spring 2017
 + Poster presentation at 2017 AMS Annual Meeting
 
 #### Intern, NOAA Earth System Research Lab Physical Sciences Division (ESRL/PSD) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Summer 2016</i>
