@@ -7,7 +7,7 @@ description: Ph.D. student at Univ. Miami Rosenstiel School of Marine & Atmosphe
 
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
-last_updated: # leave blank if you don't want to display last updated
+last_updated: Feb 2020 # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Open Graph
@@ -63,17 +63,17 @@ contact_note: >
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
-collections:
-  news:
-    defaults:
-      layout: post
-    output: true
-    permalink: /news/:path/
-  projects:
-    output: true
-    permalink: /projects/:path/
+#collections:
+#  news:
+#    defaults:
+#      layout: post
+#    output: true
+#    permalink: /news/:path/
+#  projects:
+#    output: true
+#    permalink: /projects/:path/
 
-news_limit: 5
+#news_limit: 5
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
