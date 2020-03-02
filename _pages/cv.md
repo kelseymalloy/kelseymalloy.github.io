@@ -67,15 +67,15 @@ B.S.: University of Maryland, College Park | <i>2017</i>
 +	Poster presentation at 2016 AMS Annual Meeting
   
 ### Teaching Experience
-Teaching Assistant for Data Analysis Methods (graduate course) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Present</i>
-<br>Tutor for middle and high school students, mostly math and science &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Present</i>
-<br>Teaching Assistant for Weather Forecasting &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Spring 2019</i>
-<br>Teaching Assistant for Large-scale Atmospheric & Oceanic Dynamics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Spring 2017</i>
-<br>Teaching Assistant for Atmospheric Thermodynamics	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Fall 2016</i>
+Teaching Assistant for Data Analysis Methods (graduate course) | <i>Present</i>
+<br>Tutor for middle and high school students, mostly math and science | <i>Present</i>
+<br>Teaching Assistant for Weather Forecasting | <i>Spring 2019</i>
+<br>Teaching Assistant for Large-scale Atmospheric & Oceanic Dynamics | <i>Spring 2017</i>
+<br>Teaching Assistant for Atmospheric Thermodynamics	| <i>Fall 2016</i>
 
 ### Relevant Extracurriculars & Service
 Founder, [Seasoned Chaos](https://seasonedchaos.github.io) blog about subseasonal-to-seasonal forecasting | <i>Present</i>
-<br>Lead Coordinator, Students for Students Outreach &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Present</i>
+<br>Lead Coordinator, Students for Students Outreach | <i>Present</i>
 <br>RSMAS COMPASS Seminar Committee | <i>Present</i>
 <br>RSMAS Climate Group | <i>Present</i>
 <br>Univ. Miami Atmospheric Science Dept. Student Ambassador | <i>2018-2019</i>
