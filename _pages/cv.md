@@ -14,12 +14,12 @@ Malloy, K.M. and B.P. Kirtman, 2020: Predictability of Midsummer Great Plains Lo
 Mahoney, K., D. Swales, M.J. Mueller, M. Alexander, M. Hughes, and K. Malloy, 2018: An Examination of an Inland-Penetrating Atmospheric River Flood Event under Potential Future Thermodynamic Conditions. <i>J. Climate</i>, 31, 6281–6297, [https://doi.org/10.1175/JCLI-D-18-0118.1](https://doi.org/10.1175/JCLI-D-18-0118.1).
 
 ### Education
-Ph.D.: University of Miami Rosenstiel School of Marine & Atmospheric Science&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Expected 2022</i>
+Ph.D.: University of Miami Rosenstiel School of Marine & Atmospheric Science | <i>Expected 2022</i>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Department of Atmospheric Sciences
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Thesis: Predictability of Great Plains Summer Hydroclimate via Extratropical Teleconnections
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Ben Kirtman
 <br><br>
-B.S.: University of Maryland, College Park&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>2017</i>
+B.S.: University of Maryland, College Park | <i>2017</i>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Honors College, Departmental Honors
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Atmospheric & Oceanic Science
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Minor: Remote Sensing of Environmental Change
@@ -74,20 +74,24 @@ Teaching Assistant for Data Analysis Methods (graduate course) &nbsp;&nbsp;&nbsp
 <br>Teaching Assistant for Atmospheric Thermodynamics	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Fall 2016</i>
 
 ### Relevant Extracurriculars & Service
-Founder, [Seasoned Chaos](https://seasonedchaos.github.io) blog about subseasonal-to-seasonal forecasting &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Present</i>
+Founder, [Seasoned Chaos](https://seasonedchaos.github.io) blog about subseasonal-to-seasonal forecasting | <i>Present</i>
 <br>Lead Coordinator, Students for Students Outreach &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Present</i>
-<br>RSMAS COMPASS Seminar Committee &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Present</i>
-<br>RSMAS Climate Group &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Present</i>
-<br>Univ. Miami Atmospheric Science Dept. Student Ambassador &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>2018-2019</i>
-<br>SEGUE Student Reviewer (for UCAR Comet modules) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Fall 2019-Spring 2020</i>
+<br>RSMAS COMPASS Seminar Committee | <i>Present</i>
+<br>RSMAS Climate Group | <i>Present</i>
+<br>Univ. Miami Atmospheric Science Dept. Student Ambassador | <i>2018-2019</i>
+<br>SEGUE Student Reviewer (for UCAR Comet modules) | <i>Fall 2019-Spring 2020</i>
 
 ### Awards & Skills
 * Tutoring and teaching experience from middle school to graduate level
 * Languages (in order of proficiency): Python, Matlab, Shell, Git Bash, Fortran, Markdown/HTML, NCAR Command Language (NCL), C
 * Software/Operating Systems (no particular order): Linux/Unix, Git Bash, Microsoft Office (Word, Excel, Powerpoint, etc.), Adobe Illustrator
+* Gave software and programming seminars to Rosenstiel School colleagues through "Lunch Bytes" program
 * Attended Summer 2018 Weather and Climate Extremes NCAR Tutorial/Workshop
-* 2017 University of Maryland Undergraduate Research of the Year
+* 2017 University of Maryland Undergraduate Researcher of the Year
 * 2017 University of Maryland Philip Merrill Presidential Scholar
+* 2017 Richard Jordan Scholar (for atmospheric & oceanic science senior thesis presentations)
+* 2016-2017 Outstanding Student Service in Atmos. & Oceanic Science Department
+* 2014-2017 Jeffrey & Lily Chen Scholar (for atmospheric & oceanic science majors)
 * 2015-2016 NOAA Ernest F. Hollings Scholar
 <br><br>
 <div class="img_row">
