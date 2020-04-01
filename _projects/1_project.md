@@ -13,8 +13,9 @@ This interactive image was created for a [Seasoned Chaos](https://seasonedchaos.
 HTML page with the interactive aspects. The interactive part allows you to click the timescales to focus on the particular processes; by hovering over the pie pieces, you can find a brief description. This image does not indicate any actual %s for each process nor is it an exhaustive list. Also, a process may belong to more than one parent timescale.
 
 ![Foo](https://github.com/kelseymalloy/fun-data-science/blob/master/_images/weather_pattern_pie_static.png)
-![Interactive](/assets/img/weather_pattern_pie.html){:target="_blank"}
-<a href="/assets/img/weather_pattern_pie.html" title="About Me">Interactive</a>
+
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~kelseymalloy/1.embed" height="525" width="100%"></iframe>
 
 
 
