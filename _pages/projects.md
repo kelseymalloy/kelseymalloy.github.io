@@ -5,50 +5,20 @@ permalink: /projects/
 description: Collection of cool projects.
 ---
 
-Come back later for some content!
+Sometimes I create images, animations, etc. outside the world of academia. You can find some of my scripts and output at [my fun-data-science repo](https://github.com/kelseymalloy/fun-data-science.git)
+
+## Weather Pattern Pie
+
+This interactive image was created for a [Seasoned Chaos](https://seasonedchaos.github.io/) blog post, so credit also goes to my team members. It shows all the timescales of the weather and climate system and the processes that go into forecasting the different scales. The interactive part allows you to click the timescales to focus on the particular processes; by hovering over the pie pieces, you can find a brief description. This image does not indicate any actual percentages of variability for each process nor is it an exhaustive list. Also, a process may belong to more than one parent timescale (e.g. ENSO can be seasonal or year-to-year).
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~kelseymalloy/1.embed" height="525" width="100%"></iframe>
+
+<br/><br/>
+
+Come back for more content!
 
 <div class="img_row">
     <img class="col three left" src="{{ site.baseurl }}/assets/img/scatter.jpg" alt="" title="Scattering rays"/>
 </div>
 
-{% for project in site.projects %}
 
-{% if project.redirect %}
-<div class="project">
-    <div class="thumbnail">
-        <a href="{{ project.redirect }}" target="_blank">
-        {% if project.img %}
-        <img class="thumbnail" src="{{ project.img | prepend: site.baseurl | prepend: site.url }}"/>
-        {% else %}
-        <div class="thumbnail blankbox"></div>
-        {% endif %}    
-        <span>
-            <h1>{{ project.title }}</h1>
-            <br/>
-            <p>{{ project.description }}</p>
-        </span>
-        </a>
-    </div>
-</div>
-{% else %}
-
-<div class="project ">
-    <div class="thumbnail">
-        <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
-        {% if project.img %}
-        <img class="thumbnail" src="{{ project.img | prepend: site.baseurl | prepend: site.url }}"/>
-        {% else %}
-        <div class="thumbnail blankbox"></div>
-        {% endif %}    
-        <span>
-            <h1>{{ project.title }}</h1>
-            <br/>
-            <p>{{ project.description }}</p>
-        </span>
-        </a>
-    </div>
-</div>
-
-{% endif %}
-
-{% endfor %}
