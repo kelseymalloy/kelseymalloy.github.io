@@ -14,6 +14,7 @@ HTML page with the interactive aspects. The interactive part allows you to click
 
 ![Foo](https://github.com/kelseymalloy/fun-data-science/blob/master/_images/weather_pattern_pie_static.png)
 ![Interactive](/assets/img/weather_pattern_pie.html){:target="_blank"}
+<a href="/assets/img/weather_pattern_pie.html" title="About Me">Interactive</a>
 
 
 
