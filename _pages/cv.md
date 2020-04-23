@@ -76,9 +76,11 @@ Teaching Assistant for Data Analysis Methods (graduate course) | <i>Present</i>
 ### Relevant Extracurriculars & Service
 Founder, [Seasoned Chaos](https://seasonedchaos.github.io) blog about subseasonal-to-seasonal forecasting | <i>Present</i>
 <br>Lead Coordinator, Students for Students Outreach | <i>Present</i>
-<br>RSMAS COMPASS Seminar Committee | <i>Present</i>
-<br>RSMAS Climate Group | <i>Present</i>
-<br>Univ. Miami Atmospheric Science Dept. Student Ambassador | <i>2018-2019</i>
+<br>Rosenstiel School Marine Science Graduate Student Organization's Sustainability Initiative | <i>Present</i>
+<br>Rosenstiel School Marine Science Graduate Student Organization's Earth Week Committee | <i>Spring 2020</i>
+<br>Rosenstiel School COMPASS Seminar Committee | <i>Present</i>
+<br>Rosenstiel School Climate Group | <i>Present</i>
+<br>Rosenstiel School Atmospheric Science Dept. Student Ambassador | <i>2018-2019</i>
 <br>SEGUE Student Reviewer (for UCAR Comet modules) | <i>Fall 2019-Spring 2020</i>
 
 ### Awards & Skills
