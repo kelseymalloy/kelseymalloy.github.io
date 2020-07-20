@@ -15,6 +15,9 @@ This interactive image was created for a [Seasoned Chaos](https://seasonedchaos.
 
 <br/><br/>
 
+![]({{ site.url }}/assets/img/arrow_thermocline_sst.png) ![SSTs]({{ site.url }}/assets/img/SSTs.png) ![]({{ site.url }}/assets/img/arrow_sst_winds.png) 
+<br>![Thermocline]({{ site.url }}/assets/img/Thermocline.png) ({{ site.url }}/assets/img/arrow_winds_thermocline.png) ![Surface Winds]({{ site.url }}/assets/img/Winds.png)
+
 Come back for more content!
 
 <div class="img_row">
