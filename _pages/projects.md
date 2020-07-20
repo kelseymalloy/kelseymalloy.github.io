@@ -15,8 +15,8 @@ This interactive image was created for a [Seasoned Chaos](https://seasonedchaos.
 
 <br/><br/>
 
-![]({{ site.url }}/assets/img/arrow_thermocline_sst.png =600x720) ![SSTs]({{ site.url }}/assets/img/SSTs.png =600x720) ![]({{ site.url }}/assets/img/arrow_sst_winds.png =600x720) 
-<br>![Thermocline]({{ site.url }}/assets/img/Thermocline.png =600x720) ({{ site.url }}/assets/img/arrow_winds_thermocline.png =600x720) ![Surface Winds]({{ site.url }}/assets/img/Winds.png =600x720)
+<img src="{{ site.baseurl }}/assets/img/arrow_thermocline_sst.png" width="600" height="720" /><img src="{{ site.baseurl }}/assets/img/SSTs.png" width="600" height="720" /><img src="{{ site.baseurl }}/assets/img/arrow_sst_winds.png" width="600" height="720" />
+<br><br> <img src="{{ site.baseurl }}/assets/img/Winds.png" width="600" height="720" /><img src="{{ site.baseurl }}/assets/img/arrow_winds_thermocline.png" width="600" height="720" /> <img src="{{ site.baseurl }}/assets/img/Thermocline.png" width="600" height="720" />
 
 <br/><br/>
 Come back for more content!
