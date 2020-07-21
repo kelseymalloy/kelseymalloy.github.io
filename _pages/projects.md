@@ -15,8 +15,8 @@ This interactive image was created for a [Seasoned Chaos](https://seasonedchaos.
 
 <br/><br/>
 
-<img src="{{ site.baseurl }}/assets/img/arrow_thermocline_sst.png" width="240" height="288" /><img src="{{ site.baseurl }}/assets/img/SSTs.png" width="200" height="288" /><img src="{{ site.baseurl }}/assets/img/arrow_sst_winds.png" width="200" height="288" />
-<br><br> <img src="{{ site.baseurl }}/assets/img/Thermocline.png" width="200" height="288" /><img src="{{ site.baseurl }}/assets/img/arrow_winds_thermocline.png" width="200" height="288" /> <img src="{{ site.baseurl }}/assets/img/Winds.png" width="200" height="288" />
+<img src="{{ site.baseurl }}/assets/img/arrow_thermocline_sst.png" width="250" height="300" /><img src="{{ site.baseurl }}/assets/img/SSTs.png" width="250" height="300" /><img src="{{ site.baseurl }}/assets/img/arrow_sst_winds.png" width="250" height="300" />
+<br><br> <img src="{{ site.baseurl }}/assets/img/Thermocline.png" width="250" height="300" /><img src="{{ site.baseurl }}/assets/img/arrow_winds_thermocline.png" width="250" height="300" /> <img src="{{ site.baseurl }}/assets/img/Winds.png" width="250" height="300" />
 
 <br/><br/>
 Come back for more content!
