@@ -14,32 +14,13 @@ This interactive image was created for a [Seasoned Chaos](https://seasonedchaos.
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~kelseymalloy/1.embed" height="525" width="100%"></iframe>
 
 <br/><br/>
-
-<img src="{{ site.baseurl }}/assets/img/arrow_thermocline_sst.png" />
-img {
-  max-width: 30%;
-}
-<img src="{{ site.baseurl }}/assets/img/SSTs.png" />
-img {
-  max-width: 30%;
-}
-<img src="{{ site.baseurl }}/assets/img/arrow_sst_winds.png" />
-img {
-  max-width: 30%;
-}
+![]({{ site.baseurl }}/assets/img/arrow_thermocline_sst.png){:width="30%"}
+![SSTs]({{ site.baseurl }}/assets/img/SSTs.png){:width="30%"}
+![]({{ site.baseurl }}/assets/img/arrow_sst_winds.png){:width="30%"}
 <br><br> 
-<img src="{{ site.baseurl }}/assets/img/Thermocline.png" />
-img {
-  max-width: 30%;
-}
-<img src="{{ site.baseurl }}/assets/img/arrow_winds_thermocline.png" /> 
-img {
-  max-width: 30%;
-}
-<img src="{{ site.baseurl }}/assets/img/Winds.png" />
-img {
-  max-width: 30%;
-}
+![Thermocline]({{ site.baseurl }}/assets/img/Thermocline.png){:width="30%"}
+![]({{ site.baseurl }}/assets/img/arrow_winds_thermocline.png){:width="30%"}
+![Winds]({{ site.baseurl }}/assets/img/Winds.png){:width="30%"}
 
 <br/><br/>
 Come back for more content!
