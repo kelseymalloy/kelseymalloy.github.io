@@ -15,30 +15,30 @@ This interactive image was created for a [Seasoned Chaos](https://seasonedchaos.
 
 <br/><br/>
 
-<img src="{{ site.baseurl }}/assets/img/arrow_thermocline_sst.png" width="220" height="264" />
+<img src="{{ site.baseurl }}/assets/img/arrow_thermocline_sst.png" />
 img {
-  max-width: 100%;
+  max-width: 30%;
 }
-<img src="{{ site.baseurl }}/assets/img/SSTs.png" width="220" height="264" />
+<img src="{{ site.baseurl }}/assets/img/SSTs.png" />
 img {
-  max-width: 100%;
+  max-width: 30%;
 }
-<img src="{{ site.baseurl }}/assets/img/arrow_sst_winds.png" width="220" height="264" />
+<img src="{{ site.baseurl }}/assets/img/arrow_sst_winds.png" />
 img {
-  max-width: 100%;
+  max-width: 30%;
 }
 <br><br> 
-<img src="{{ site.baseurl }}/assets/img/Thermocline.png" width="220" height="264" />
+<img src="{{ site.baseurl }}/assets/img/Thermocline.png" />
 img {
-  max-width: 100%;
+  max-width: 30%;
 }
-<img src="{{ site.baseurl }}/assets/img/arrow_winds_thermocline.png" width="220" height="264" /> 
+<img src="{{ site.baseurl }}/assets/img/arrow_winds_thermocline.png" /> 
 img {
-  max-width: 100%;
+  max-width: 30%;
 }
-<img src="{{ site.baseurl }}/assets/img/Winds.png" width="220" height="264" />
+<img src="{{ site.baseurl }}/assets/img/Winds.png" />
 img {
-  max-width: 100%;
+  max-width: 30%;
 }
 
 <br/><br/>
