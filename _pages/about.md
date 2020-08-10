@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: Kelsey Malloy
-description: 3rd-year Ph.D. Student
+description: 4th-year Ph.D. Candidate
 
 profile:
   align: right
