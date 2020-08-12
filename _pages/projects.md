@@ -15,6 +15,10 @@ This interactive image was created for a [Seasoned Chaos](https://seasonedchaos.
 
 <br/><br/>
 
+
+<img alt="" src="/assets/img/SSTs.png" style="width: 32%" onclick="this.src='/assets/img/phases_SSTs.png'">
+
+
 <p>
     <img alt="" src="/assets/img/SSTs.png" 
         style="width: 32%" id="imgClickAndChange1" onclick="changeImage1()"   />
