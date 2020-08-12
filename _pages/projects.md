@@ -14,16 +14,6 @@ This interactive image was created for a [Seasoned Chaos](https://seasonedchaos.
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~kelseymalloy/1.embed" height="525" width="100%"></iframe>
 
 <br/><br/>
- 
-![]({{ site.baseurl }}/assets/img/arrow_thermocline_sst.png){:width="32%"}
-<img alt="SSTs" src="/assets/img/SSTs.png" style="width: 32%" onclick="this.src='/assets/img/phases_SSTs.png'">
-![]({{ site.baseurl }}/assets/img/arrow_sst_winds.png){:width="32%"}
-<br><br> 
-<img alt="Thermocline" src="/assets/img/Thermocline.png" style="width: 32%" onclick="this.src='/assets/img/phases_thermocline.png'">
-![]({{ site.baseurl }}/assets/img/arrow_winds_thermocline.png){:width="32%"}
-<img alt="" src="/assets/img/Winds.png" style="width: 32%" onclick="this.src='/assets/img/phases_winds.png'">
-
-<br/><br/>
 Come back for more content!
 
 <div class="img_row">
