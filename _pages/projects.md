@@ -17,20 +17,14 @@ This interactive image was created for a [Seasoned Chaos](https://seasonedchaos.
 
 
 <img alt="" src="/assets/img/SSTs.png" style="width: 32%" onclick="this.src='/assets/img/phases_SSTs.png'">
-
-
-<p>
-    <img alt="" src="/assets/img/SSTs.png" 
-        style="width: 32%" id="imgClickAndChange1" onclick="changeImage1()"   />
- </p>
  
 ![]({{ site.baseurl }}/assets/img/arrow_thermocline_sst.png){:width="32%"}
-![SSTs]({{ site.baseurl }}/assets/img/SSTs.png){:width="32%"}
+<img alt="SSTs" src="/assets/img/SSTs.png" style="width: 32%" onclick="this.src='/assets/img/phases_SSTs.png'">
 ![]({{ site.baseurl }}/assets/img/arrow_sst_winds.png){:width="32%"}
 <br><br> 
-![Thermocline]({{ site.baseurl }}/assets/img/Thermocline.png){:width="32%"}
+<img alt="Thermocline" src="/assets/img/Thermocline.png" style="width: 32%" onclick="this.src='/assets/img/phases_thermocline.png'">
 ![]({{ site.baseurl }}/assets/img/arrow_winds_thermocline.png){:width="32%"}
-![Winds]({{ site.baseurl }}/assets/img/Winds.png){:width="32%"}
+<img alt="" src="/assets/img/Winds.png" style="width: 32%" onclick="this.src='/assets/img/phases_winds.png'">
 
 <br/><br/>
 Come back for more content!
@@ -38,19 +32,5 @@ Come back for more content!
 <div class="img_row">
     <img class="col three left" src="{{ site.baseurl }}/assets/img/scatter.jpg" alt="" title="Scattering rays"/>
 </div>
-
-<script language="javascript">
-    function changeImage1() {
-
-        if (document.getElementById("imgClickAndChange1").src == "/assets/img/SSTs.png") 
-        {
-            document.getElementById("imgClickAndChange1").src = "/assets/img/phases_SSTs.png";
-        }
-        else 
-        {
-            document.getElementById("imgClickAndChange1").src = "/assets/img/SSTs.png";
-        }
-    }
-</script>
 
 
