@@ -38,13 +38,13 @@ Come back for more content!
 <script language="javascript">
     function changeImage1() {
 
-        if (document.getElementById("imgClickAndChange").src == "/assets/img/SSTs.png") 
+        if (document.getElementById("imgClickAndChange1").src == "/assets/img/SSTs.png") 
         {
-            document.getElementById("imgClickAndChange").src = "/assets/img/phases_SSTs.png";
+            document.getElementById("imgClickAndChange1").src = "/assets/img/phases_SSTs.png";
         }
         else 
         {
-            document.getElementById("imgClickAndChange").src = "/assets/img/SSTs.png";
+            document.getElementById("imgClickAndChange1").src = "/assets/img/SSTs.png";
         }
     }
 </script>
