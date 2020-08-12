@@ -14,9 +14,6 @@ This interactive image was created for a [Seasoned Chaos](https://seasonedchaos.
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~kelseymalloy/1.embed" height="525" width="100%"></iframe>
 
 <br/><br/>
-
-
-<img alt="" src="/assets/img/SSTs.png" style="width: 32%" onclick="this.src='/assets/img/phases_SSTs.png'">
  
 ![]({{ site.baseurl }}/assets/img/arrow_thermocline_sst.png){:width="32%"}
 <img alt="SSTs" src="/assets/img/SSTs.png" style="width: 32%" onclick="this.src='/assets/img/phases_SSTs.png'">
