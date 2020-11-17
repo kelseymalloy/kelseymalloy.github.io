@@ -30,11 +30,11 @@ B.S.: University of Maryland, College Park | <i>2017</i>
 + Predictability of summer continental United States southerly low-level jets and associated precipitation 3-4 weeks in advance through further understanding of teleconnections
 + Using Python for reading and visualizing data
 + Low-frequency variability analysis on:
-  -	NASA and NOAA reanalysis and observational datasets (MERRA-2, ERSST, NCEP/NCAR, etc.)
+  -	NASA, ECMWF, and NOAA reanalysis and observational datasets (ERA-5, MERRA-2, ERSST, NCEP/NCAR, etc.)
   -	Community Climate System Model, v4 (CCSM4) output
 + Community Earth System Model (CESM1.2) setup, build, & run
 + Setup and run idealized forcing with an in-house dry nonlinear baroclinic model 
-+ Oral presentation at RSMAS 2019 Student Seminar
++ Oral presentation at Rosenstiel School Student Seminar series in 2019, 2020
 + Poster presentation at 2020 AMS annual meeting
 
 #### Intern, NOAA Climate and Weather Prediction Center, Ocean Prediction Center 
@@ -67,7 +67,7 @@ B.S.: University of Maryland, College Park | <i>2017</i>
 +	Poster presentation at 2016 AMS Annual Meeting
   
 ### Teaching Experience
-Teaching Assistant for Data Analysis Methods (graduate course) | <i>Present</i>
+Teaching Assistant for Data Analysis Methods (graduate course) | <i>Spring 2020</i>
 <br>Tutor for middle and high school students, mostly math and science | <i>Present</i>
 <br>Teaching Assistant for Weather Forecasting | <i>Spring 2019</i>
 <br>Teaching Assistant for Large-scale Atmospheric & Oceanic Dynamics | <i>Spring 2017</i>
@@ -76,18 +76,19 @@ Teaching Assistant for Data Analysis Methods (graduate course) | <i>Present</i>
 ### Relevant Extracurriculars & Service
 Founder, [Seasoned Chaos](https://seasonedchaos.github.io) blog about subseasonal-to-seasonal forecasting | <i>Present</i>
 <br>Lead Coordinator, Students for Students Outreach | <i>Present</i>
+<br>Rosenstiel School Climate Group | <i>Present</i>
 <br>Rosenstiel School Marine Science Graduate Student Organization's Sustainability Initiative | <i>Present</i>
 <br>Rosenstiel School Marine Science Graduate Student Organization's Earth Week Committee | <i>Spring 2020</i>
-<br>Rosenstiel School COMPASS Seminar Committee | <i>Present</i>
-<br>Rosenstiel School Climate Group | <i>Present</i>
+<br>Rosenstiel School COMPASS Seminar Committee | <i>2019-2020</i>
 <br>Rosenstiel School Atmospheric Science Dept. Student Ambassador | <i>2018-2019</i>
 <br>SEGUE Student Reviewer (for UCAR Comet modules) | <i>Fall 2019-Spring 2020</i>
 
 ### Awards & Skills
 * Tutoring and teaching experience from middle school to graduate level
 * Languages (in order of proficiency): Python, Matlab, Shell, Git Bash, Fortran, Markdown/HTML, NCAR Command Language (NCL), C
-* Software/Operating Systems (no particular order): Linux/Unix, Git Bash, Microsoft Office (Word, Excel, Powerpoint, etc.), Adobe Illustrator
+* Software/Operating Systems (no particular order): Linux/Unix, Git Bash, Microsoft Office (Word, Excel, Powerpoint, etc.)
 * Gave software and programming seminars to Rosenstiel School colleagues through "Lunch Bytes" program
+* Accepted into 2020 Swiss Climate Summer School (canceled because of COVID-19)
 * Attended Summer 2018 Weather and Climate Extremes NCAR Tutorial/Workshop
 * 2017 University of Maryland Undergraduate Researcher of the Year
 * 2017 University of Maryland Philip Merrill Presidential Scholar
