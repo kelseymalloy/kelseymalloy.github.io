@@ -7,6 +7,9 @@ description: Collection of cool projects.
 
 Sometimes I create images, animations, etc. outside the world of academia. You can find some of my scripts and output at [my fun-data-science repo](https://github.com/kelseymalloy/fun-data-science.git)
 
+I have some scripts available for computational fluid dynamics from previous class projects, found [here](https://github.com/kelseymalloy/CFD).
+
+
 ## Weather Pattern Pie
 
 This interactive image was created for a [Seasoned Chaos](https://seasonedchaos.github.io/) blog post, so credit also goes to my team members. It shows all the timescales of the weather and climate system and the processes that go into forecasting the different scales. The interactive part allows you to click the timescales to focus on the particular processes; by hovering over the pie pieces, you can find a brief description. This image does not indicate any actual percentages of variability for each process nor is it an exhaustive list. Also, a process may belong to more than one parent timescale (e.g. ENSO can be seasonal or year-to-year).
