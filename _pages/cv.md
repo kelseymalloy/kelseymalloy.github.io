@@ -26,14 +26,15 @@ B.S.: University of Maryland, College Park | <i>2017</i>
 
 ### Research Experience
 #### Graduate Research Assistant, Univ. Miami Rosenstiel School 
-<i>Fall 2018-Present</i>
-+ Predictability of summer continental United States southerly low-level jets and associated precipitation 3-4 weeks in advance through further understanding of teleconnections
+<i>Fall 2017-Present</i>
++ Predictability of summer Great Plains / North American low-level jet and associated precipitation on S2S timescales through understanding of large-scale dynamics and climate variability
 + Using Python for reading and visualizing data
 + Low-frequency variability analysis on:
   -	NASA, ECMWF, and NOAA reanalysis and observational datasets (ERA-5, MERRA-2, ERSST, NCEP/NCAR, etc.)
-  -	Community Climate System Model, v4 (CCSM4) output
-+ Community Earth System Model (CESM1.2) setup, build, & run
-+ Setup and run idealized forcing with an in-house dry nonlinear baroclinic model 
+  -	Community Climate System Model, v4 (CCSM4) forecast output
++ Community Earth System Model (CESM1.2) adn CAM5 setup, build, & run
++ Setup, write code for monsoon forcing, and run idealized forcing with a dry nonlinear baroclinic model 
++ Oral presentation at 2021 AMS annual meeting
 + Oral presentation at Rosenstiel School Student Seminar series in 2019, 2020
 + Poster presentation at 2020 AMS annual meeting
 
@@ -74,8 +75,8 @@ Teaching Assistant for Data Analysis Methods (graduate course) | <i>Spring 2020<
 <br>Teaching Assistant for Atmospheric Thermodynamics	| <i>Fall 2016</i>
 
 ### Relevant Extracurriculars & Service
-Founder, [Seasoned Chaos](https://seasonedchaos.github.io) blog about subseasonal-to-seasonal forecasting | <i>Present</i>
-<br>Lead Coordinator, Students for Students Outreach | <i>Present</i>
+Co-founder, [Seasoned Chaos](https://seasonedchaos.github.io) blog about subseasonal-to-seasonal forecasting | <i>Present</i>
+<br>Lead Coordinator, [Students for Students Outreach] (https://www.rsmas.miami.edu/community-and-giving/outreach/students-for-students-outreach-program/index.html) | <i>Present</i>
 <br>Rosenstiel School Climate Group | <i>Present</i>
 <br>Rosenstiel School Marine Science Graduate Student Organization's Sustainability Initiative | <i>Present</i>
 <br>Rosenstiel School Marine Science Graduate Student Organization's Earth Week Committee | <i>Spring 2020</i>
