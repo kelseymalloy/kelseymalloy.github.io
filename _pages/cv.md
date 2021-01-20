@@ -76,7 +76,7 @@ Teaching Assistant for Data Analysis Methods (graduate course) | <i>Spring 2020<
 
 ### Relevant Extracurriculars & Service
 Co-founder, [Seasoned Chaos](https://seasonedchaos.github.io) blog about subseasonal-to-seasonal forecasting | <i>Present</i>
-<br>Lead Coordinator, [Students for Students Outreach] (https://www.rsmas.miami.edu/community-and-giving/outreach/students-for-students-outreach-program/index.html) | <i>Present</i>
+<br>Lead Coordinator, [Students for Students Outreach](https://www.rsmas.miami.edu/community-and-giving/outreach/students-for-students-outreach-program/index.html) | <i>Present</i>
 <br>Rosenstiel School Climate Group | <i>Present</i>
 <br>Rosenstiel School Marine Science Graduate Student Organization's Sustainability Initiative | <i>Present</i>
 <br>Rosenstiel School Marine Science Graduate Student Organization's Earth Week Committee | <i>Spring 2020</i>
