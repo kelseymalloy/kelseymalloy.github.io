@@ -15,9 +15,9 @@ Mahoney, K., D. Swales, M.J. Mueller, M. Alexander, M. Hughes, and K. Malloy, 20
 
 ### Education
 Ph.D.: University of Miami Rosenstiel School of Marine & Atmospheric Science | <i>Expected 2022</i>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;Department of Atmospheric Sciences
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Department of Atmospheric Science
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Thesis: Predictability of Great Plains Summer Hydroclimate via Extratropical Teleconnections
-<br>&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Ben Kirtman
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Adviser: Ben Kirtman
 <br><br>
 B.S.: University of Maryland, College Park | <i>2017</i>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Honors College, Departmental Honors
@@ -27,12 +27,14 @@ B.S.: University of Maryland, College Park | <i>2017</i>
 ### Research Experience
 #### Graduate Research Assistant, Univ. Miami Rosenstiel School 
 <i>Fall 2017-Present</i>
-+ Predictability of summer Great Plains / North American low-level jet and associated precipitation on S2S timescales through understanding of large-scale dynamics and climate variability
++ Predictability of summer Great Plains / North American low-level jet and associated precipitation on S2S and interannual timescales through understanding of large-scale dynamics and climate variability
 + Using Python for reading and visualizing data
-+ Low-frequency variability analysis on:
++ High-level data analysis on:
   -	NASA, ECMWF, and NOAA reanalysis and observational datasets (ERA-5, MERRA-2, ERSST, NCEP/NCAR, etc.)
   -	Community Climate System Model, v4 (CCSM4) forecast output
-+ Community Earth System Model (CESM1.2) adn CAM5 setup, build, & run
+  -	Dry nonlinear baroclinic atmospheric model output
+  -	Community Atmospheric Model, v5 (CAM5) output
++ Community Earth System Model (CESM1.2) and CAM5 setup, build, & run four different experiment
 + Setup, write code for monsoon forcing, and run idealized forcing with a dry nonlinear baroclinic model 
 + Oral presentation at 2021 AMS annual meeting
 + Oral presentation at Rosenstiel School Student Seminar series in 2019, 2020
@@ -77,9 +79,10 @@ Teaching Assistant for Data Analysis Methods (graduate course) | <i>Spring 2020<
 ### Relevant Extracurriculars & Service
 Co-founder, [Seasoned Chaos](https://seasonedchaos.github.io) blog about subseasonal-to-seasonal forecasting | <i>Present</i>
 <br>Lead Coordinator, [Students for Students Outreach](https://www.rsmas.miami.edu/community-and-giving/outreach/students-for-students-outreach-program/index.html) | <i>Present</i>
+<br>Rosenstiel School Graduate-Undergraduate Mentoring (GUM) program | <i>Present</i>
 <br>Rosenstiel School Climate Group | <i>Present</i>
 <br>Rosenstiel School Marine Science Graduate Student Organization's Sustainability Initiative | <i>Present</i>
-<br>Rosenstiel School Marine Science Graduate Student Organization's Earth Week Committee | <i>Spring 2020</i>
+<br>Rosenstiel School Marine Science Graduate Student Organization's Earth Week Committee | <i>Present</i>
 <br>Rosenstiel School COMPASS Seminar Committee | <i>2019-2020</i>
 <br>Rosenstiel School Atmospheric Science Dept. Student Ambassador | <i>2018-2019</i>
 <br>SEGUE Student Reviewer (for UCAR Comet modules) | <i>Fall 2019-Spring 2020</i>
