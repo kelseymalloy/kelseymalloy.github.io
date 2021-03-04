@@ -91,6 +91,7 @@ Co-founder, [Seasoned Chaos](https://seasonedchaos.github.io) blog about subseas
 * Tutoring and teaching experience from middle school to graduate level
 * Languages (in order of proficiency): Python, Matlab, Shell, Git Bash, Fortran, Markdown/HTML, NCAR Command Language (NCL), C
 * Software/Operating Systems (no particular order): Linux/Unix, Git Bash, Microsoft Office (Word, Excel, Powerpoint, etc.)
+* Involved in Machine Learning/Artificial Intelligence literature reading group with some experience in applying to climate data
 * Gave software and programming seminars to Rosenstiel School colleagues through "Lunch Bytes" program
 * Accepted into 2020 Swiss Climate Summer School (canceled because of COVID-19)
 * Attended Summer 2018 Weather and Climate Extremes NCAR Tutorial/Workshop
