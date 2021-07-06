@@ -7,7 +7,7 @@ description: Ph.D. student at Univ. Miami Rosenstiel School of Marine & Atmosphe
 
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
-last_updated: Feb 2020 # leave blank if you don't want to display last updated
+last_updated:  # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Open Graph
