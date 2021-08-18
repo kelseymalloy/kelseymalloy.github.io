@@ -95,7 +95,7 @@ Co-founder, [Seasoned Chaos](https://seasonedchaos.github.io) blog about subseas
 <br>SEGUE Student Reviewer (for UCAR Comet modules) | <i>Fall 2019-Spring 2020</i>
 
 ### Awards & Skills
-* Attended 2021 NCAR Advanced Summer Program The Science of Subseasonal-to-seasonal Predictions Colloquium and Workshop
+* Attended the 2021 NCAR Advanced Summer Program "The Science of Subseasonal-to-Seasonal Predictions" Colloquium and Workshop
 * Tutoring and teaching experience from middle school to graduate level
 * Languages (in order of proficiency): Python, Matlab, Shell, Git Bash, Fortran, Markdown/HTML, NCAR Command Language (NCL), C
 * Software/Operating Systems (no particular order): Linux/Unix, Git Bash, Microsoft Office (Word, Excel, Powerpoint, etc.)
