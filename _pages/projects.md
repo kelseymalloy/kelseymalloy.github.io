@@ -7,8 +7,11 @@ description: Collection of cool projects.
 
 Sometimes I create images, animations, etc. outside the world of academia. You can find some of my scripts and output at [my fun-data-science repo](https://github.com/kelseymalloy/fun-data-science.git)
 
-I have some scripts available for computational fluid dynamics from previous class projects, found [here](https://github.com/kelseymalloy/CFD).
+## Lorenz Butterfly
 
+This animation shows that the tiniest pertubations in initial conditions can results in such different outcomes. Read more about this phenomena in this [Seasoned Chaos blog post](https://seasonedchaos.github.io/The-More-We-Learn-the-Less-We-Know-An-Introduction-to-Chaos/) and play with the code by going to this [Github repo](https://github.com/seasonedchaos/seasonedchaos_codes).
+
+<iframe width="840" height="472.5" src="https://www.youtube.com/embed/fqd3ocEkbHA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Weather Pattern Pie
 
