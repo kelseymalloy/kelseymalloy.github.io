@@ -45,6 +45,7 @@ B.S.: University of Maryland, College Park | <i>2017</i>
    - etc.
 + Oral presentation at 2021 AMS annual meeting
 + Oral presentation at Rosenstiel School Student Seminar series in 2019, 2020, 2021
++ Invited presentation at North American Multi-Model ENsemble (NMME) monthly meeting
 + Poster presentation at 2020 AMS annual meeting
 
 #### Intern, NOAA Climate and Weather Prediction Center, Ocean Prediction Center 
