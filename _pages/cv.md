@@ -48,6 +48,13 @@ B.S.: University of Maryland, College Park | <i>2017</i>
 + Invited presentation at North American Multi-Model Esemble (NMME) monthly meeting (Feb 2020)
 + Poster presentation at 2020 AMS annual meeting
 
+#### Collaborator, PyWR, Weather Typing, and S2S Sources of Predictability Project 
+<i>Fall 2017-Present</i>
++ Project leads: Ángel Muñoz and Andrew Robertson
++ Project in collaboration with participants of NCAR Advanced Summer Program The Science of S2S Predictions PyWR and Weather Typing group and International Research Institute/Lamont-Doherty Earth Observatory (IRI/LDEO) scientists
++ Applying weather typing via k-means clustering to explore summertime predictability of North Atlantic circulation and associated precipitation
+   - Primary contribution – boreal summer intraseasonal oscillation (BSISO) and East Asian monsoon (EAM) as a source of predictability for summer weather types
+
 #### Intern, NOAA Climate and Weather Prediction Center, Ocean Prediction Center 
 <i>Fall 2016-Spring 2017</i>
 + Building case study analysis of stratospheric air intrusion events and improving hurricane-force wind forecasts of extratropical cyclones in Atlantic Ocean using satellite imagery
@@ -98,6 +105,7 @@ Co-founder, [Seasoned Chaos](https://seasonedchaos.github.io) blog about subseas
 ### Awards & Skills
 * Attended the 2021 NCAR Advanced Summer Program "The Science of Subseasonal-to-Seasonal Predictions" Colloquium and Workshop
 * Tutoring and teaching experience from middle school to graduate level
+* Runner-up for 2020-2021 Rosenstiel School Student Seminar <i>Best Presentation Skills</i> award
 * Languages (in order of proficiency): Python, Matlab, Shell, Git Bash, Fortran, Markdown/HTML, NCAR Command Language (NCL), C
 * Software/Operating Systems (no particular order): Linux/Unix, Git Bash, Microsoft Office (Word, Excel, Powerpoint, etc.)
 * Involved in Machine Learning/Artificial Intelligence literature reading group with some experience in applying to climate data
