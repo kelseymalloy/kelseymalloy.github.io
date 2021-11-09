@@ -9,9 +9,9 @@ description: Publications, Education, Research, Teaching, Service, Skills.
 
 ### Publications
 
-Malloy, K.M. and Kirtman, B.P. (2021). The summer Asia-North America teleconnection and ENSO modulation in Community Atmosphere Model, version 5 (CAM5). <i>J. Climate</i>, in prep.
-<br><br>
 Malloy, K.M. and Kirtman, B.P. (2021). East Asian monsoon forcing and North Atlantic subtropical high modulation of summer Great Plains low-level jet. <i>J. Climate</i>, in prep.
+<br><br>
+Malloy, K.M. and Kirtman, B.P. (2021). The summer Asia-North America teleconnection and its modulation by ENSO in Community Atmosphere Model, version 5 (CAM5). Climate Dynamics, in revision.
 <br><br>
 Malloy, K.M. and Kirtman, B.P. (2020).  Predictability of Midsummer Great Plains Low-Level Jet and Associated Precipitation. <i>Wea. Forecasting</i>, 35, 215–235, [https://doi.org/10.1175/WAF-D-19-0103.1](https://doi.org/10.1175/WAF-D-19-0103.1).
 <br><br>
@@ -19,7 +19,7 @@ Mahoney, K., D. Swales, M.J. Mueller, M. Alexander, M. Hughes, and K. Malloy, 20
 
 ### Education
 Ph.D.: University of Miami Rosenstiel School of Marine & Atmospheric Science | <i>Expected Spring 2022</i>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;Department of Atmospheric Science
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Department of Atmospheric Sciences
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Thesis: Predictability of Great Plains Summer Hydroclimate via Extratropical Teleconnections
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Adviser: Ben Kirtman
 <br><br>
