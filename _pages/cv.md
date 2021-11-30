@@ -105,6 +105,8 @@ Co-founder, [Seasoned Chaos](https://seasonedchaos.github.io) blog about subseas
 <br>SEGUE Student Reviewer (for UCAR Comet modules) | <i>Fall 2019-Spring 2020</i>
 
 ### Awards & Skills
+* Excellent writing skills and overall science communication skills (by medium of oral presentations, writing, video-making, interviews)
+* Involvement in many extracurricular and community organizations, including taking on leadership positions  
 * Attended the 2021 NCAR Advanced Summer Program "The Science of Subseasonal-to-Seasonal Predictions" Colloquium and Workshop
 * Tutoring and teaching experience from middle school to graduate level
 * Runner-up for 2020-2021 Rosenstiel School Student Seminar <i>Best Presentation Skills</i> award
