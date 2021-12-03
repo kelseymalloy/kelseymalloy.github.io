@@ -15,7 +15,7 @@ Malloy, K.M. and Kirtman, B.P. (2021). The summer Asia-North America teleconnect
 <br><br>
 Malloy, K.M. and Kirtman, B.P. (2020).  Predictability of Midsummer Great Plains Low-Level Jet and Associated Precipitation. <i>Wea. Forecasting</i>, 35, 215–235, [https://doi.org/10.1175/WAF-D-19-0103.1](https://doi.org/10.1175/WAF-D-19-0103.1).
 <br><br>
-Mahoney, K., D. Swales, M.J. Mueller, M. Alexander, M. Hughes, and K. Malloy, 2018: An Examination of an Inland-Penetrating Atmospheric River Flood Event under Potential Future Thermodynamic Conditions. <i>J. Climate</i>, 31, 6281–6297, [https://doi.org/10.1175/JCLI-D-18-0118.1](https://doi.org/10.1175/JCLI-D-18-0118.1).
+Mahoney, K., D. Swales, M.J. Mueller, M. Alexander, M. Hughes, and K. Malloy. (2018). An Examination of an Inland-Penetrating Atmospheric River Flood Event under Potential Future Thermodynamic Conditions. <i>J. Climate</i>, 31, 6281–6297, [https://doi.org/10.1175/JCLI-D-18-0118.1](https://doi.org/10.1175/JCLI-D-18-0118.1).
 
 ### Education
 Ph.D.: University of Miami Rosenstiel School of Marine & Atmospheric Science | <i>Expected Spring 2022</i>
