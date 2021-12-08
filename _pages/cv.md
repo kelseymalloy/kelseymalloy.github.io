@@ -30,8 +30,8 @@ B.S.: University of Maryland, College Park | <i>2017</i>
 
 ### Research Experience
 #### Graduate Research Assistant, Univ. Miami Rosenstiel School 
-Committee: Ben Kirtman, Amy Clement, Emily Becker, Brian Mapes, Hosmay Lopez
 <i>Fall 2017-Present</i>
+<br>Committee: Ben Kirtman, Amy Clement, Emily Becker, Brian Mapes, Hosmay Lopez
 + Predictability of summer U.S. hydroclimate on S2S and interannual timescales via understanding of large-scale circulation responses and interactions between teleconnections
 + Using Python and creating Jupyter notebooks for reading and visualizing data
 + High-level spatiotemporal data analysis on:
@@ -51,7 +51,7 @@ Committee: Ben Kirtman, Amy Clement, Emily Becker, Brian Mapes, Hosmay Lopez
 
 #### Collaborator, PyWR, Weather Typing, and S2S Sources of Predictability Project 
 <i>Fall 2017-Present</i>
-Project leads: Ángel Muñoz and Andrew Robertson
+<br>Project leads: Ángel Muñoz and Andrew Robertson
 + Project in collaboration with participants of NCAR Advanced Summer Program The Science of S2S Predictions PyWR and Weather Typing group and International Research Institute/Lamont-Doherty Earth Observatory (IRI/LDEO) scientists
 + Applying weather typing via k-means clustering to explore summertime predictability of North Atlantic circulation and associated precipitation
    - Primary contribution – boreal summer intraseasonal oscillation (BSISO) and East Asian monsoon (EAM) as a source of predictability for summer weather types
