@@ -5,7 +5,7 @@ title: CV
 description: Publications, Education, Research, Teaching, Service, Skills.
 ---
 
-[PDF download](/assets/pdf/KelseyMalloy_CV_2021.pdf){:target="_blank"}
+[PDF download](/assets/pdf/KelseyMalloy_CV_Dec2021.pdf){:target="_blank"}
 
 ### Publications
 
