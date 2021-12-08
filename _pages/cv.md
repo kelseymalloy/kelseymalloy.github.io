@@ -101,7 +101,7 @@ Co-founder, Writer, Editor, [Seasoned Chaos](https://seasonedchaos.github.io) bl
 <br>Rosenstiel School Marine Science Graduate Student Organization's Sustainability Initiative | <i>2020-2021</i>
 <br>Rosenstiel School Marine Science Graduate Student Organization's Earth Week Committee | <i>2020-2021</i>
 <br>Creator, Rosenstiel School Seas by Degrees Video Seminar Series	| <i>March 2021</i>
-<br>    [<i>Opening a Climate Scientist’s Toolbox: What is a Climate Model?</i>](https://youtu.be/jpqF2i29G-g)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<i>Opening a Climate Scientist’s Toolbox: What is a Climate Model?</i>](https://youtu.be/jpqF2i29G-g)
 <br>Rosenstiel School COMPASS Seminar Committee | <i>2019-2020</i>
 <br>Presenter/Collaborator, Rosenstiel School Lunch Bytes Seminar Series | <i>Spring 2019</i>
 <br>SEGUE Student Reviewer (for UCAR Comet modules) | <i>Fall 2019-Spring 2020</i>
