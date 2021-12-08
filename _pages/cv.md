@@ -9,7 +9,7 @@ description: Publications, Education, Research, Teaching, Service, Skills.
 
 ### Publications
 
-Malloy, K.M. and Kirtman, B.P. (2021). East Asian monsoon forcing and North Atlantic subtropical high modulation of summer Great Plains low-level jet. <i>J. Climate</i>, in prep.
+Malloy, K.M. and Kirtman, B.P. (2021). East Asian monsoon forcing and North Atlantic subtropical high modulation of summer Great Plains low-level jet. <i>Climate Dynamics</i>, submitted.
 <br><br>
 Malloy, K.M. and Kirtman, B.P. (2021). The summer Asia-North America teleconnection and its modulation by ENSO in Community Atmosphere Model, version 5 (CAM5). Climate Dynamics, in revision.
 <br><br>
@@ -31,20 +31,18 @@ B.S.: University of Maryland, College Park | <i>2017</i>
 ### Research Experience
 #### Graduate Research Assistant, Univ. Miami Rosenstiel School 
 <i>Fall 2017-Present</i>
-+ Predictability of summer Great Plains / North American low-level jet and associated precipitation on S2S and interannual timescales through understanding of large-scale dynamics and climate variability
-+ Using Python for reading and visualizing data
++ Predictability of summer U.S. hydroclimate on S2S and interannual timescales via understanding of large-scale circulation responses and interactions between teleconnections
++ Using Python and creating Jupyter notebooks for reading and visualizing data
 + Substantial modeling and model output experience:
   -	NASA, ECMWF, and NOAA reanalysis and observational datasets (ERA-5, MERRA-2, ERSST, NCEP/NCAR, etc.)
   -	Community Climate System Model, v4 (CCSM4) forecast
   -	Dry nonlinear baroclinic atmospheric model 
   -	Community Atmospheric Model, v5 (CAM5) output
-+ Community Earth System Model (CESM1.2) and CAM5 setup, build, & run multiple different experiments
-+ Setup, write code for monsoon forcing, and run idealized forcing with a dry nonlinear baroclinic model
-+ High-level statistical and dynamical data analysis methods:
-   - Fixed-point iterations
-   - S2S model evaluation and verification
-   - K-means clustering
-   - etc.
++ Community Earth System Model (CESM1.2) and CAM5 setup, build, & conducted four different prescribed SST experiments, and mentored other graduate students on CESM process
++ Setup, write code for monsoon forcing, developed, and conducted idealized forcing experiments with a dry nonlinear baroclinic AGCM; created documentation, and mentored other graduate students; created scripts/functions for reading model output used by other graduate students
++ Build linear QG model that generates an upper-level mid-latitude response given a mean state (jet stream climatology) and forcing
++ Accepted oral presentation for 2022 AMS annual meeting
++ 1-hour Seminar for Dept. of Atmospheric Science at Rosenstiel School in November 2021
 + Oral presentation at 2021 AMS annual meeting
 + Oral presentation at Rosenstiel School Student Seminar series in 2019, 2020, 2021
 + Invited presentation at North American Multi-Model Esemble (NMME) monthly meeting (Feb 2020)
@@ -56,6 +54,7 @@ B.S.: University of Maryland, College Park | <i>2017</i>
 + Project in collaboration with participants of NCAR Advanced Summer Program The Science of S2S Predictions PyWR and Weather Typing group and International Research Institute/Lamont-Doherty Earth Observatory (IRI/LDEO) scientists
 + Applying weather typing via k-means clustering to explore summertime predictability of North Atlantic circulation and associated precipitation
    - Primary contribution – boreal summer intraseasonal oscillation (BSISO) and East Asian monsoon (EAM) as a source of predictability for summer weather types
++ Accepted poster presentation for 2022 AMS annual meeting
 
 #### Intern, NOAA Climate and Weather Prediction Center, Ocean Prediction Center 
 <i>Fall 2016-Spring 2017</i>
@@ -94,15 +93,18 @@ Teaching Assistant for Data Analysis Methods (graduate course) | <i>Spring 2020<
 <br>Teaching Assistant for Atmospheric Thermodynamics	| <i>Fall 2016</i>
 
 ### Relevant Extracurriculars & Service
-Co-founder, [Seasoned Chaos](https://seasonedchaos.github.io) blog about subseasonal-to-seasonal forecasting | <i>Present</i>
+Co-founder, Writer, Editor, [Seasoned Chaos](https://seasonedchaos.github.io) blog about subseasonal-to-seasonal forecasting | <i>Present</i>
 <br>Lead Coordinator, [Students for Students Outreach](https://www.rsmas.miami.edu/community-and-giving/outreach/students-for-students-outreach-program/index.html) | <i>Present</i>
-<br>Rosenstiel School Graduate-Undergraduate Mentoring (GUM) program | <i>Present</i>
+<br>Mentor, Rosenstiel School Graduate-Undergraduate Mentoring (GUM) program | <i>Present</i>
 <br>Rosenstiel School Climate Group | <i>Present</i>
-<br>Rosenstiel School Marine Science Graduate Student Organization's Sustainability Initiative | <i>Present</i>
-<br>Rosenstiel School Marine Science Graduate Student Organization's Earth Week Committee | <i>Present</i>
+<br>Rosenstiel School Marine Science Graduate Student Organization's Sustainability Initiative | <i>2020-2021</i>
+<br>Rosenstiel School Marine Science Graduate Student Organization's Earth Week Committee | <i>2020-2021</i>
+<br>Creator, Rosenstiel School Seas by Degrees Video Seminar Series	| <i>March 2021</i>
++ [Opening a Climate Scientist’s Toolbox: What is a Climate Model?](https://youtu.be/jpqF2i29G-g)
 <br>Rosenstiel School COMPASS Seminar Committee | <i>2019-2020</i>
-<br>Rosenstiel School Atmospheric Science Dept. Student Ambassador | <i>2018-2019</i>
+<br>Presenter/Collaborator, Rosenstiel School Lunch Bytes Seminar Series | <i>Spring 2019</i>
 <br>SEGUE Student Reviewer (for UCAR Comet modules) | <i>Fall 2019-Spring 2020</i>
+<br>Rosenstiel School Atmospheric Science Dept. Student Ambassador | <i>2018-2019</i>
 
 ### Awards & Skills
 * Excellent writing skills and overall science communication skills (by medium of oral presentations, writing, video-making, interviews)
