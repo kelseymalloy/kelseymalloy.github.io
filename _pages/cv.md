@@ -11,7 +11,7 @@ description: Publications, Education, Research, Teaching, Service, Skills.
 
 Malloy, K.M. and Kirtman, B.P. (2021). East Asian monsoon forcing and North Atlantic subtropical high modulation of summer Great Plains low-level jet. <i>Climate Dynamics</i>, submitted.
 <br><br>
-Malloy, K.M. and Kirtman, B.P. (2021). The summer Asia-North America teleconnection and its modulation by ENSO in Community Atmosphere Model, version 5 (CAM5). Climate Dynamics, in revision.
+Malloy, K.M. and Kirtman, B.P. (2021). The summer Asia-North America teleconnection and its modulation by ENSO in Community Atmosphere Model, version 5 (CAM5). <i>Climate Dynamics</i>, in revision.
 <br><br>
 Malloy, K.M. and Kirtman, B.P. (2020).  Predictability of Midsummer Great Plains Low-Level Jet and Associated Precipitation. <i>Wea. Forecasting</i>, 35, 215–235, [https://doi.org/10.1175/WAF-D-19-0103.1](https://doi.org/10.1175/WAF-D-19-0103.1).
 <br><br>
@@ -26,14 +26,15 @@ Ph.D.: University of Miami Rosenstiel School of Marine & Atmospheric Science | <
 B.S.: University of Maryland, College Park | <i>2017</i>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Honors College, Departmental Honors
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Atmospheric & Oceanic Science
-<br>&nbsp;&nbsp;&nbsp;&nbsp;Minor: Remote Sensing of Environmental Change
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Minor: Geography-Remote Sensing of Environmental Change
 
 ### Research Experience
 #### Graduate Research Assistant, Univ. Miami Rosenstiel School 
+Committee: Ben Kirtman, Amy Clement, Emily Becker, Brian Mapes, Hosmay Lopez
 <i>Fall 2017-Present</i>
 + Predictability of summer U.S. hydroclimate on S2S and interannual timescales via understanding of large-scale circulation responses and interactions between teleconnections
 + Using Python and creating Jupyter notebooks for reading and visualizing data
-+ Substantial modeling and model output experience:
++ High-level spatiotemporal data analysis on:
   -	NASA, ECMWF, and NOAA reanalysis and observational datasets (ERA-5, MERRA-2, ERSST, NCEP/NCAR, etc.)
   -	Community Climate System Model, v4 (CCSM4) forecast
   -	Dry nonlinear baroclinic atmospheric model 
@@ -50,7 +51,7 @@ B.S.: University of Maryland, College Park | <i>2017</i>
 
 #### Collaborator, PyWR, Weather Typing, and S2S Sources of Predictability Project 
 <i>Fall 2017-Present</i>
-+ Project leads: Ángel Muñoz and Andrew Robertson
+Project leads: Ángel Muñoz and Andrew Robertson
 + Project in collaboration with participants of NCAR Advanced Summer Program The Science of S2S Predictions PyWR and Weather Typing group and International Research Institute/Lamont-Doherty Earth Observatory (IRI/LDEO) scientists
 + Applying weather typing via k-means clustering to explore summertime predictability of North Atlantic circulation and associated precipitation
    - Primary contribution – boreal summer intraseasonal oscillation (BSISO) and East Asian monsoon (EAM) as a source of predictability for summer weather types
@@ -86,8 +87,8 @@ B.S.: University of Maryland, College Park | <i>2017</i>
 +	Poster presentation at 2016 AMS Annual Meeting
   
 ### Teaching Experience
-Teaching Assistant for Data Analysis Methods (graduate course) | <i>Spring 2020</i>
-<br>Tutor for middle and high school students, mostly math and science | <i>Present</i>
+Tutor for middle and high school students, mostly math and science | <i>Present</i>
+<br>Teaching Assistant for Data Analysis Methods (graduate course) | <i>Spring 2020</i>
 <br>Teaching Assistant for Weather Forecasting | <i>Spring 2019</i>
 <br>Teaching Assistant for Large-scale Atmospheric & Oceanic Dynamics | <i>Spring 2017</i>
 <br>Teaching Assistant for Atmospheric Thermodynamics	| <i>Fall 2016</i>
@@ -100,7 +101,7 @@ Co-founder, Writer, Editor, [Seasoned Chaos](https://seasonedchaos.github.io) bl
 <br>Rosenstiel School Marine Science Graduate Student Organization's Sustainability Initiative | <i>2020-2021</i>
 <br>Rosenstiel School Marine Science Graduate Student Organization's Earth Week Committee | <i>2020-2021</i>
 <br>Creator, Rosenstiel School Seas by Degrees Video Seminar Series	| <i>March 2021</i>
-+ [Opening a Climate Scientist’s Toolbox: What is a Climate Model?](https://youtu.be/jpqF2i29G-g)
+    [<i>Opening a Climate Scientist’s Toolbox: What is a Climate Model?</i>](https://youtu.be/jpqF2i29G-g)
 <br>Rosenstiel School COMPASS Seminar Committee | <i>2019-2020</i>
 <br>Presenter/Collaborator, Rosenstiel School Lunch Bytes Seminar Series | <i>Spring 2019</i>
 <br>SEGUE Student Reviewer (for UCAR Comet modules) | <i>Fall 2019-Spring 2020</i>
