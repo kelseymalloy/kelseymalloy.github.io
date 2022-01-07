@@ -9,9 +9,9 @@ description: Publications, Education, Research, Teaching, Service, Skills.
 
 ### Publications
 
-Malloy, K.M. and Kirtman, B.P. (2021). East Asian monsoon forcing and North Atlantic subtropical high modulation of summer Great Plains low-level jet. <i>Climate Dynamics</i>, submitted.
+Malloy, K.M. and Kirtman, B.P. (2021). East Asian Monsoon Forcing and North Atlantic Subtropical High Modulation of Summer Great Plains Low-Level Jet. <i>Climate Dynamics</i>, in review.
 <br><br>
-Malloy, K.M. and Kirtman, B.P. (2021). The summer Asia-North America teleconnection and its modulation by ENSO in Community Atmosphere Model, version 5 (CAM5). <i>Climate Dynamics</i>, in revision.
+Malloy, K.M. and Kirtman, B.P. (2021). The Summer Asia-North America Teleconnection and its Modulation by ENSO in Community Atmosphere Model, Version 5 (CAM5). <i>Climate Dynamics</i>, in review.
 <br><br>
 Malloy, K.M. and Kirtman, B.P. (2020).  Predictability of Midsummer Great Plains Low-Level Jet and Associated Precipitation. <i>Wea. Forecasting</i>, 35, 215–235, [https://doi.org/10.1175/WAF-D-19-0103.1](https://doi.org/10.1175/WAF-D-19-0103.1).
 <br><br>
