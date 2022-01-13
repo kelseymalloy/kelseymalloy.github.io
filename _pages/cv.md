@@ -11,7 +11,7 @@ description: Publications, Education, Research, Teaching, Service, Skills.
 
 Malloy, K.M. and Kirtman, B.P. (2021). East Asian Monsoon Forcing and North Atlantic Subtropical High Modulation of Summer Great Plains Low-Level Jet. <i>Climate Dynamics</i>, in review.
 <br><br>
-Malloy, K.M. and Kirtman, B.P. (2021). The Summer Asia-North America Teleconnection and its Modulation by ENSO in Community Atmosphere Model, Version 5 (CAM5). <i>Climate Dynamics</i>, in review.
+Malloy, K.M. and Kirtman, B.P. (2021). The Summer Asia-North America Teleconnection and its Modulation by ENSO in Community Atmosphere Model, Version 5 (CAM5). <i>Climate Dynamics</i>, in revision.
 <br><br>
 Malloy, K.M. and Kirtman, B.P. (2020).  Predictability of Midsummer Great Plains Low-Level Jet and Associated Precipitation. <i>Wea. Forecasting</i>, 35, 215–235, [https://doi.org/10.1175/WAF-D-19-0103.1](https://doi.org/10.1175/WAF-D-19-0103.1).
 <br><br>
@@ -100,6 +100,7 @@ Co-founder, Writer, Editor, [Seasoned Chaos](https://seasonedchaos.github.io) bl
 <br>Rosenstiel School Climate Group | <i>Present</i>
 <br>Rosenstiel School Marine Science Graduate Student Organization's Sustainability Initiative | <i>2020-2021</i>
 <br>Rosenstiel School Marine Science Graduate Student Organization's Earth Week Committee | <i>2020-2021</i>
+<br>Rosenstiel School New Student Orientation Committee | <i>2020</i>
 <br>Creator, Rosenstiel School Seas by Degrees Video Seminar Series	| <i>March 2021</i>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<i>Opening a Climate Scientist’s Toolbox: What is a Climate Model?</i>](https://youtu.be/jpqF2i29G-g)
 <br>Rosenstiel School COMPASS Seminar Committee | <i>2019-2020</i>
