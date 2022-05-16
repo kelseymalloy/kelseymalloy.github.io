@@ -18,7 +18,7 @@ Malloy, K.M. and Kirtman, B.P. (2020).  Predictability of Midsummer Great Plains
 Mahoney, K., D. Swales, M.J. Mueller, M. Alexander, M. Hughes, and K. Malloy. (2018). An Examination of an Inland-Penetrating Atmospheric River Flood Event under Potential Future Thermodynamic Conditions. <i>J. Climate</i>, 31, 6281–6297, [https://doi.org/10.1175/JCLI-D-18-0118.1](https://doi.org/10.1175/JCLI-D-18-0118.1).
 
 ### Education
-Ph.D.: University of Miami Rosenstiel School of Marine & Atmospheric Science | <i>Expected May 2022</i>
+Ph.D.: University of Miami Rosenstiel School of Marine & Atmospheric Science | <i>May 2022</i>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Department of Atmospheric Sciences
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Thesis: Predictability of Great Plains Summer Hydroclimate via Extratropical Teleconnections
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Adviser: Ben Kirtman
@@ -42,7 +42,8 @@ B.S.: University of Maryland, College Park | <i>2017</i>
 + Community Earth System Model (CESM1.2) and CAM5 setup, build, & conducted four different prescribed SST experiments, and mentored other graduate students on CESM process
 + Setup, write code for monsoon forcing, developed, and conducted idealized forcing experiments with a dry nonlinear baroclinic AGCM; created documentation, and mentored other graduate students; created scripts/functions for reading model output used by other graduate students
 + Build linear QG model that generates an upper-level mid-latitude response given a mean state (jet stream climatology) and forcing
-+ Accepted oral presentation for 2022 AMS annual meeting
++ Defended doctoral dissertation in May 2022
++ Oral presentation for 2022 AMS annual meeting
 + 1-hour Seminar for Dept. of Atmospheric Science at Rosenstiel School in November 2021
 + Oral presentation at 2021 AMS annual meeting
 + Oral presentation at Rosenstiel School Student Seminar series in 2019, 2020, 2021
@@ -55,7 +56,7 @@ B.S.: University of Maryland, College Park | <i>2017</i>
 + Project in collaboration with participants of NCAR Advanced Summer Program The Science of S2S Predictions PyWR and Weather Typing group and International Research Institute/Lamont-Doherty Earth Observatory (IRI/LDEO) scientists
 + Applying weather typing via k-means clustering to explore summertime predictability of North Atlantic circulation and associated precipitation
    - Primary contribution – boreal summer intraseasonal oscillation (BSISO) and East Asian monsoon (EAM) as a source of predictability for summer weather types
-+ Accepted poster presentation for 2022 AMS annual meeting
++ Poster presentation for 2022 AMS annual meeting
 
 #### Intern, NOAA Climate and Weather Prediction Center, Ocean Prediction Center 
 <i>Fall 2016-Spring 2017</i>
@@ -96,8 +97,8 @@ Tutor for middle and high school students, mostly math and science | <i>Present<
 ### Relevant Extracurriculars & Service
 Co-founder, Writer, Editor, [Seasoned Chaos](https://seasonedchaos.github.io) blog about subseasonal-to-seasonal forecasting | <i>Present</i>
 <br>Lead Coordinator, [Students for Students Outreach](https://www.rsmas.miami.edu/community-and-giving/outreach/students-for-students-outreach-program/index.html) | <i>Present</i>
-<br>Mentor, Rosenstiel School Graduate-Undergraduate Mentoring (GUM) program | <i>Present</i>
-<br>Rosenstiel School Climate Group | <i>Present</i>
+<br>Mentor, Rosenstiel School Graduate-Undergraduate Mentoring (GUM) program | <i>2021-2022</i>
+<br>Rosenstiel School Climate Group | <i>2017-2022</i>
 <br>Rosenstiel School Marine Science Graduate Student Organization's Sustainability Initiative | <i>2020-2021</i>
 <br>Rosenstiel School Marine Science Graduate Student Organization's Earth Week Committee | <i>2020-2021</i>
 <br>Rosenstiel School New Student Orientation Committee | <i>2020</i>
