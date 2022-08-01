@@ -8,8 +8,8 @@ profile:
   align: right
   image: headshot_malloy.jpg
   address: >
-    <p>University of Miami</p>
-    <p>Rosenstiel School of Marine & Atmospheric Science</p>
+    <p>Dept. of Applied Physics and Applied Mathematics</p>
+    <p>Columbia University</p>
 
 news: false
 social: true
