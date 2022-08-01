@@ -18,9 +18,9 @@ Malloy, K.M. and Kirtman, B.P. (2020).  Predictability of Midsummer Great Plains
 Mahoney, K., D. Swales, M.J. Mueller, M. Alexander, M. Hughes, and K. Malloy. (2018). An Examination of an Inland-Penetrating Atmospheric River Flood Event under Potential Future Thermodynamic Conditions. <i>J. Climate</i>, 31, 6281–6297, [https://doi.org/10.1175/JCLI-D-18-0118.1](https://doi.org/10.1175/JCLI-D-18-0118.1).
 
 ### Education
-Ph.D.: University of Miami Rosenstiel School of Marine & Atmospheric Science | <i>May 2022</i>
+Ph.D.: University of Miami Rosenstiel School of Marine & Atmospheric Science | <i>2022</i>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Department of Atmospheric Sciences
-<br>&nbsp;&nbsp;&nbsp;&nbsp;Thesis: Predictability of Great Plains Summer Hydroclimate via Extratropical Teleconnections
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Thesis: Predictability of U.S. Great Plains Summer Hydroclimate via Extratropical Teleconnections
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Adviser: Ben Kirtman
 <br><br>
 B.S.: University of Maryland, College Park | <i>2017</i>
@@ -29,6 +29,10 @@ B.S.: University of Maryland, College Park | <i>2017</i>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Minor: Geography-Remote Sensing of Environmental Change
 
 ### Research Experience
+#### Postdoctoral Research Scientist, Columbia University
+<i>August 2022-Present</i>
+<br>Supervisor: Mike Tippett
+
 #### Graduate Research Assistant, Univ. Miami Rosenstiel School 
 <i>Fall 2017-Present</i>
 <br>Committee: Ben Kirtman, Amy Clement, Emily Becker, Brian Mapes, Hosmay Lopez
