@@ -9,7 +9,7 @@ description: Publications, Education, Research, Teaching, Service, Skills.
 
 ### Publications
 
-Malloy, K. and Kirtman, B.P. (2022). Subseasonal Great Plains Rainfall via Remote Extratropical Teleconnections: Regional Application of Theory-guided Causal Networks. <i>JGR - Atmospheres</i>, submitted.
+Malloy, K. and Kirtman, B.P. (2022). Subseasonal Great Plains Rainfall via Remote Extratropical Teleconnections: Regional Application of Theory-guided Causal Networks. <i>JGR - Atmospheres</i>, in review, [https://doi.org/10.1002/essoar.10512343.1](https://doi.org/10.1002/essoar.10512343.1)
 
 Malloy, K. and Kirtman, B.P. (2022). East Asian Monsoon Forcing and North Atlantic Subtropical High Modulation of Summer Great Plains Low-Level Jet. <i>Climate Dynamics</i>, in review, [https://doi.org/10.21203/rs.3.rs-1153667/v1](https://doi.org/10.21203/rs.3.rs-1153667/v1)
 <br><br>
