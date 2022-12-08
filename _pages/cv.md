@@ -9,9 +9,9 @@ description: Publications, Education, Research, Teaching, Service, Skills.
 
 ### Publications
 
-Malloy, K. and Kirtman, B.P. (2022). Subseasonal Great Plains Rainfall via Remote Extratropical Teleconnections: Regional Application of Theory-guided Causal Networks. <i>JGR - Atmospheres</i>, in review, [https://doi.org/10.1002/essoar.10512343.1](https://doi.org/10.1002/essoar.10512343.1)
-
-Malloy, K. and Kirtman, B.P. (2022). East Asian Monsoon Forcing and North Atlantic Subtropical High Modulation of Summer Great Plains Low-Level Jet. <i>Climate Dynamics</i>, in review, [https://doi.org/10.21203/rs.3.rs-1153667/v1](https://doi.org/10.21203/rs.3.rs-1153667/v1)
+Malloy, K. and Kirtman, B.P. (2022). East Asian Monsoon Forcing and North Atlantic Subtropical High Modulation of Summer Great Plains Low-Level Jet. <i>JGR: Atmospheres</i>, in review, [https://doi.org/10.21203/rs.3.rs-1153667/v1](https://doi.org/10.21203/rs.3.rs-1153667/v1)
+<br><br>
+Malloy, K. and Kirtman, B.P. (2022). Subseasonal Great Plains Rainfall via Remote Extratropical Teleconnections: Regional Application of Theory-guided Causal Networks. <i>JGR: Atmospheres</i>, in revision, [https://doi.org/10.1002/essoar.10512343.1](https://doi.org/10.1002/essoar.10512343.1)
 <br><br>
 Malloy, K. and Kirtman, B.P. (2022). The Summer Asia-North America Teleconnection and its Modulation by ENSO in Community Atmosphere Model, Version 5 (CAM5). <i>Climate Dynamics</i>, [https://doi.org/10.1007/s00382-022-06205-4](https://doi.org/10.1007/s00382-022-06205-4)
 <br><br>
