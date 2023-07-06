@@ -163,5 +163,5 @@ Co-founder, Writer, Editor, [Seasoned Chaos](https://seasonedchaos.github.io) bl
 * 2015-2016 NOAA Ernest F. Hollings Scholar
 <br><br>
 <div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/miamibeach.jpg" alt="" title="Miami Beach skyline with sunset"/>
+    <img class="col three left" src="{{ site.baseurl }}/assets/img/NYCaerial.jpeg" alt="" title="NYC from the plane"/>
 </div>
