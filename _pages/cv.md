@@ -9,9 +9,9 @@ description: Publications, Education, Research, Teaching, Service, Skills.
 
 ### Publications
 
-Malloy, K. and Kirtman, B.P. (2022). East Asian Monsoon Forcing and North Atlantic Subtropical High Modulation of Summer Great Plains Low-Level Jet. <i>JGR: Atmospheres</i>, in review, [https://doi.org/10.21203/rs.3.rs-1153667/v1](https://doi.org/10.21203/rs.3.rs-1153667/v1)
+Malloy, K. and Tippett, M.K. (2023). ENSO and MJO Modulation of U.S. Cloud-to-ground Lightning Activity. <i>J. Climate</i>, in prep.
 <br><br>
-Malloy, K. and Kirtman, B.P. (2022). Subseasonal Great Plains Rainfall via Remote Extratropical Teleconnections: Regional Application of Theory-guided Causal Networks. <i>JGR: Atmospheres</i>, [https://doi.org/10.1029/2022JD037795](https://doi.org/10.1029/2022JD037795)
+Malloy, K. and Kirtman, B.P. (2023). Subseasonal Great Plains Rainfall via Remote Extratropical Teleconnections: Regional Application of Theory-guided Causal Networks. <i>JGR: Atmospheres</i>, [https://doi.org/10.1029/2022JD037795](https://doi.org/10.1029/2022JD037795)
 <br><br>
 Malloy, K. and Kirtman, B.P. (2022). The Summer Asia-North America Teleconnection and its Modulation by ENSO in Community Atmosphere Model, Version 5 (CAM5). <i>Climate Dynamics</i>, [https://doi.org/10.1007/s00382-022-06205-4](https://doi.org/10.1007/s00382-022-06205-4)
 <br><br>
@@ -19,11 +19,18 @@ Malloy, K. and Kirtman, B.P. (2020).  Predictability of Midsummer Great Plains L
 <br><br>
 Mahoney, K., D. Swales, M.J. Mueller, M. Alexander, M. Hughes, and K. Malloy. (2018). An Examination of an Inland-Penetrating Atmospheric River Flood Event under Potential Future Thermodynamic Conditions. <i>J. Climate</i>, 31, 6281–6297, [https://doi.org/10.1175/JCLI-D-18-0118.1](https://doi.org/10.1175/JCLI-D-18-0118.1).
 
+### Invited Talks
+<i>Subseasonal Great Plains Rainfall via Remote Extratropical Teleconnections: ​Regional Application of Theory-guided ​Causal Networks​</i>, March 2023, AGU Early Career Science Seminar​
+<i>Predictability of U.S. Great Plains Summer Hydroclimate via ​Extratropical Teleconnections​</i>, February 2023, Lamont-Doherty Earth Observatory (LDEO) Ocean and Climate Physics (OCP) Seminar
+<i>Subseasonal Great Plains Rainfall via Remote Extratropical Teleconnections: ​Application of Theory-guided ​Causal Networks​</i>, December 2022, AGU Annual Meeting Session on S2S Prediction
+<i>Predictability of ​ U.S. Great Plains Summer Hydroclimate via East Asian Monsoon-forced Teleconnection​</i>, June 2022, NASA GMAO Seasonal Prediction Group
+<i>Predictability of the Great Plains Low-level Jet and its Associated Precipitation​</i>, February 2020, NMME Monthly Meeting
+
 ### Education
 Ph.D.: University of Miami Rosenstiel School of Marine & Atmospheric Science | <i>2022</i>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Department of Atmospheric Sciences
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Thesis: Predictability of U.S. Great Plains Summer Hydroclimate via Extratropical Teleconnections
-<br>&nbsp;&nbsp;&nbsp;&nbsp;Adviser: Ben Kirtman
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Adviser: Ben P. Kirtman
 <br><br>
 B.S.: University of Maryland, College Park | <i>2017</i>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Honors College, Departmental Honors
@@ -33,15 +40,25 @@ B.S.: University of Maryland, College Park | <i>2017</i>
 ### Research Experience
 #### Postdoctoral Research Scientist, Columbia University
 <i>August 2022-Present</i>
-<br>Supervisor: Mike Tippett
+<br>Supervisor: Michael K. Tippett
++ Subseasonal-to-seasonal predictability of severe convective storm activity via large-scale environment
++ Developed statistical model for cloud-to-ground lightning activity based on large-scale environment
+  - Assess subseasonal-to-seasonal modulation of lightning activity
++ Constructed a submonthly tornado outbreak index that predicts probability of outbreak-level tornado given environment
+  - Assess subseasonal-to-seasonal modulation of tornado outbreak activity
++ High-level experience writing python code for the development of empirical models, evaluating the model performance, investigating links with climate variability
+  - 
+  - Proficient with machine learning prediction modeling methods, including experience with scikit-learn, statsmodels, and tensorflow python libraries
++ Oral presentation at 2023 European Conference on Severe Storms
++ Poster presentation at 2023 European Conference on Severe Storms
 
 #### Graduate Research Assistant, Univ. Miami Rosenstiel School 
 <i>Fall 2017-Present</i>
 <br>Committee: Ben Kirtman, Amy Clement, Emily Becker, Brian Mapes, Hosmay Lopez
-+ Predictability of summer U.S. hydroclimate on S2S and interannual timescales via understanding of large-scale circulation responses and interactions between teleconnections
++ Predictability of summer U.S. hydroclimate on subseasonal-to-seasonal and interannual timescales via understanding of large-scale circulation responses and interactions between teleconnections
 + Using Python and creating Jupyter notebooks for reading and visualizing data
 + High-level spatiotemporal data analysis on:
-  -	NASA, ECMWF, and NOAA reanalysis and observational datasets (ERA-5, MERRA-2, ERSST, NCEP/NCAR, etc.)
+  -	NASA, ECMWF, and NOAA reanalysis and observational datasets (ERA5, MERRA-2, ERSST, NCEP/NCAR, etc.)
   -	Community Climate System Model, v4 (CCSM4) forecast
   -	Dry nonlinear baroclinic atmospheric model 
   -	Community Atmospheric Model, v5 (CAM5) output
@@ -53,7 +70,6 @@ B.S.: University of Maryland, College Park | <i>2017</i>
 + 1-hour Seminar for Dept. of Atmospheric Science at Rosenstiel School in November 2021
 + Oral presentation at 2021 AMS annual meeting
 + Oral presentation at Rosenstiel School Student Seminar series in 2019, 2020, 2021
-+ Invited presentation at North American Multi-Model Esemble (NMME) monthly meeting (Feb 2020)
 + Poster presentation at 2020 AMS annual meeting
 
 #### Collaborator, PyWR, Weather Typing, and S2S Sources of Predictability Project 
@@ -117,6 +133,10 @@ Co-founder, Writer, Editor, [Seasoned Chaos](https://seasonedchaos.github.io) bl
 
 ### Awards & Skills
 * Excellent writing skills and overall science communication skills (by medium of oral presentations, writing, video-making, interviews)
+* Proficient in a wide range of modeling techniques, including:
+  - Running state-of-the-art climate models to assess representation of climate dynamics/circulation and analyze long-term trends and large-scale climate variability
+  - Building or running idealized climate models and designing experiments to investigate specific aspects of climate systems
+  - Applying data-driven, empirical models to analyze and interpret climate data, identify patterns, and make predictions
 * Involvement in many extracurricular and community organizations, including taking on leadership positions  
 * Attended the 2021 NCAR Advanced Summer Program "The Science of Subseasonal-to-Seasonal Predictions" Colloquium and Workshop
 * Tutoring and teaching experience from middle school to graduate level
