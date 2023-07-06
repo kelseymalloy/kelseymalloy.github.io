@@ -51,8 +51,9 @@ B.S.: University of Maryland, College Park | <i>2017</i>
 + Constructed a submonthly tornado outbreak index that predicts probability of outbreak-level tornado given environment
   - Assess subseasonal-to-seasonal modulation of tornado outbreak activity
 + High-level experience writing python code for the development of empirical models, evaluating the model performance, investigating links with climate variability
-  - 
-  - Proficient with machine learning prediction modeling methods, including experience with scikit-learn, statsmodels, and tensorflow python libraries
+  - Specific modeling techniques include (but not limited to): linear regression, Poisson Regression, logistic regression, random forests, artificial neural networks
+  - Skilled in data preprocessing, feature selection, and model evaluation techniques to ensure the robustness and reliability of statistical models
+  - Proficient with Python libraries for staticial modeling and machine learning prediction, including (but not limited to): scikit-learn, statsmodels, tensorflow 
 + Oral presentation at 2023 European Conference on Severe Storms
 + Poster presentation at 2023 European Conference on Severe Storms
 
