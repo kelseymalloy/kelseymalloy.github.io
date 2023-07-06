@@ -137,11 +137,11 @@ Co-founder, Writer, Editor, [Seasoned Chaos](https://seasonedchaos.github.io) bl
 <br>Rosenstiel School Atmospheric Science Dept. Student Ambassador | <i>2018-2019</i>
 
 ### Awards & Skills
-* Excellent writing skills and overall science communication skills (by medium of oral presentations, writing, video-making, interviews)
 * Proficient in a wide range of modeling techniques, including:
   - Running state-of-the-art climate models to assess representation of climate dynamics/circulation and analyze long-term trends and large-scale climate variability
   - Building or running idealized climate models and designing experiments to investigate specific aspects of climate systems
   - Applying data-driven, empirical models to analyze and interpret climate data, identify patterns, and make predictions
+* Excellent writing skills and overall science communication skills (by medium of oral presentations, writing, video-making, interviews)
 * Involvement in many extracurricular and community organizations, including taking on leadership positions  
 * Attended the 2021 NCAR Advanced Summer Program "The Science of Subseasonal-to-Seasonal Predictions" Colloquium and Workshop
 * Tutoring and teaching experience from middle school to graduate level
