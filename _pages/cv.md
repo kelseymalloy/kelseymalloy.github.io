@@ -45,7 +45,7 @@ B.S.: University of Maryland, College Park | <i>2017</i>
 #### Postdoctoral Research Scientist, Columbia University
 <i>August 2022-Present</i>
 <br>Supervisor: Michael K. Tippett
-+ Subseasonal-to-seasonal predictability of severe convective storm activity via large-scale environment
++ Subseasonal-to-seasonal predictability of severe convective storm activity
 + Developed statistical model for cloud-to-ground lightning activity based on large-scale environment
   - Assess subseasonal-to-seasonal modulation of lightning activity
 + Constructed a submonthly tornado outbreak index that predicts probability of outbreak-level tornado given environment
