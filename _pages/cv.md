@@ -144,8 +144,11 @@ Co-founder, Writer, Editor, [Seasoned Chaos](https://seasonedchaos.github.io) bl
 * Excellent writing skills and overall science communication skills (by medium of oral presentations, writing, video-making, interviews)
 * Involvement in many extracurricular and community organizations, including taking on leadership positions  
 * Attended the 2021 NCAR Advanced Summer Program "The Science of Subseasonal-to-Seasonal Predictions" Colloquium and Workshop
+* Participated in 2022 AMS Short Course on Machine Learning for Environmental Sciences
 * Tutoring and teaching experience from middle school to graduate level
+* Experience in reviewing journal articles ([https://orcid.org/0000-0002-1989-7490](https://orcid.org/0000-0002-1989-7490))
 * Runner-up for 2020-2021 Rosenstiel School Student Seminar <i>Best Presentation Skills</i> award
+* Finalist for Rosenstiel School Outstanding Outreach Award
 * Languages (in order of proficiency): Python, Matlab, Shell, Git Bash, Fortran, Markdown/HTML, NCAR Command Language (NCL), C
 * Software/Operating Systems (no particular order): Linux/Unix, Git Bash, Microsoft Office (Word, Excel, Powerpoint, etc.)
 * Involved in Machine Learning/Artificial Intelligence literature reading group with some experience in applying to climate data
