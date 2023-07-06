@@ -22,7 +22,7 @@ Mahoney, K., D. Swales, M.J. Mueller, M. Alexander, M. Hughes, and K. Malloy. (2
 ### Invited Talks
 <i>Subseasonal Great Plains Rainfall via Remote Extratropical Teleconnections: ​Regional Application of Theory-guided ​Causal Networks​</i> | AGU Early Career Science Seminar​ | March 2023
 <br><br>
-<i>Predictability of U.S. Great Plains Summer Hydroclimate via ​Extratropical Teleconnections​</i>, Lamont-Doherty Earth Observatory (LDEO) Ocean and Climate Physics (OCP) Seminar | February 2023
+<i>Predictability of U.S. Great Plains Summer Hydroclimate via ​Extratropical Teleconnections​</i> | Lamont-Doherty Earth Observatory (LDEO) Ocean and Climate Physics (OCP) Seminar | February 2023
 <br><br>
 <i>Subseasonal Great Plains Rainfall via Remote Extratropical Teleconnections: ​Application of Theory-guided ​Causal Networks​</i> | AGU Annual Meeting Session on S2S Prediction | December 2022
 <br><br>
