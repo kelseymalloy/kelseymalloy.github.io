@@ -9,7 +9,7 @@ description: Publications, Invited Talks, Education, Research, Teaching, Service
 
 ### Publications
 
-Malloy, K. and Tippett, M.K. (2023). ENSO and MJO Modulation of U.S. Cloud-to-ground Lightning Activity. <i>J. Climate</i>, in prep.
+Malloy, K. and Tippett, M.K. (2023). ENSO and MJO Modulation of U.S. Cloud-to-ground Lightning Activity. <i>J. Climate</i>, in review.
 <br><br>
 Malloy, K. and Kirtman, B.P. (2023). Subseasonal Great Plains Rainfall via Remote Extratropical Teleconnections: Regional Application of Theory-guided Causal Networks. <i>JGR: Atmospheres</i>, [https://doi.org/10.1029/2022JD037795](https://doi.org/10.1029/2022JD037795)
 <br><br>
