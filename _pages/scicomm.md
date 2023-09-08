@@ -1,11 +1,15 @@
 ---
 layout: page
-title: scicomm
+title: Scicomm
 permalink: /scicomm/
 description: Collection of cool science comunication and visualization projects.
 ---
 
 Sometimes I create images, animations, etc. related or not related to weather and climate. You can find some of my scripts and output at [my fun-data-science repo](https://github.com/kelseymalloy/fun-data-science.git)
+
+# Seasoned Chaos
+
+Most of my science communication work is done through [Seasoned Chaos](https://seasonedchaos.github.io/The-More-We-Learn-the-Less-We-Know-An-Introduction-to-Chaos/) blog posts. My writer bio page lists all the posts I have (co-)written.
 
 ## Lorenz Butterfly
 
