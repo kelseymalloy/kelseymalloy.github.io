@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: Collection of cool projects.
+title: scicomm
+permalink: /scicomm/
+description: Collection of cool science comunication and visualization projects.
 ---
 
-Sometimes I create images, animations, etc. outside the world of academia. You can find some of my scripts and output at [my fun-data-science repo](https://github.com/kelseymalloy/fun-data-science.git)
+Sometimes I create images, animations, etc. related or not related to weather and climate. You can find some of my scripts and output at [my fun-data-science repo](https://github.com/kelseymalloy/fun-data-science.git)
 
 ## Lorenz Butterfly
 
