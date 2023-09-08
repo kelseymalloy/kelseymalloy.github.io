@@ -23,7 +23,7 @@ This interactive image was created for a [Seasoned Chaos](https://seasonedchaos.
 Come back for more content!
 
 <div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/scatter.jpg" alt="" title="Scattering rays"/>
+    <img class="col three left" src="{{ site.baseurl }}/assets/img/NYCsunsetHudson.jpg" alt="" title="Scattering rays"/>
 </div>
 
 
