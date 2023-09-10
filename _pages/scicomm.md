@@ -73,7 +73,7 @@ This interactive image was created for this [Seasoned Chaos blog post](https://s
 ### Climate Forecasting and ENSO
 
 <img src="/assets/img/SCCasino_ex1.gif" width="90%"><br>
-<br><br>
+<br>
 <img src="/assets/img/SCCasino_ex2.png" width="90%"><br>
 [Learn more here](https://seasonedchaos.github.io/Round-2-Welcome-to-the-Seasoned_Chaos-Casino/).
 
