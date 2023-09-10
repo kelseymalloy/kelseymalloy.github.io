@@ -1,6 +1,6 @@
 ---
 layout: about
-permalink: /about/
+permalink: /
 title: About Me
 description: 
 
