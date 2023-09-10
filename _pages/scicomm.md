@@ -73,6 +73,13 @@ This interactive image was created for this [Seasoned Chaos blog post](https://s
 <img src="/assets/img/AMOC.png" width="90%"><br>
 [Learn more here](https://seasonedchaos.github.io/AMOC-Mountain-Ski-Resort/).
 
+### Climate Forecasting and ENSO
+
+![Probabilities for blackjack]({{ site.url }}/assets/img/SCCasino_ex1.gif)
+<br><br><br>
+![Probabilities for climate forecasting]({{ site.url }}/assets/img/SCCasino_ex2.png)
+[Learn more here](https://seasonedchaos.github.io/Round-2-Welcome-to-the-Seasoned_Chaos-Casino/).
+
 <br><br><br><br>
 
 <div class="img_row">
