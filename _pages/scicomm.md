@@ -20,8 +20,7 @@ This animation shows that the tiniest pertubations in initial conditions can res
 ## Large-scale Setup for Severe Storms
 
 While severe convective storms are largely triggered and described by small-scale/mesoscale processes, the large-scale environment can still influence the likelihood of severe convective storm conditions. Here is an example of favorable synoptic-scale conditions and how that may describe the pattern of springtime likelihood of tornado/hail/wind events across U.S. Learn more about how severe covective storms may be influenced by climate in this [Seasoned Chaos blog post](https://seasonedchaos.github.io/The-Yellow-Brick-Road-to-Predicting-Severe-Storms/).
-
-<br><br>
+<br>
 <!-- blank line -->
 <iframe width="840" height="472.5" src="https://www.youtube.com/embed/WfwlCQAf8kM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -29,13 +28,12 @@ While severe convective storms are largely triggered and described by small-scal
 
 The North Atlantic Oscillation (NAO) is an important climate pattern since it describes a large part of temperature and precipitation variability for eastern North America and Europe. It exhibits variability on various timescales, so its influence really depends on the timescale of interest. This is demonstrated below by calculating the monthly, seasonal, annual, and decadal NAO index, which can mean different signs (phases) depending on which timescale you're interested in. Learn more about NAO in this [Seasoned Chaos blog post](https://seasonedchaos.github.io/Seasoned-Chaos-presents-the-North-Atlantic-Oscillation/).
 
-<br><br>
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~kelseymalloy/10.embed" height="525" width="100%"></iframe>
 
 ## El Niño-Southern Oscillation (ENSO)
 
 ENSO develops in the tropical Pacific and can be characterized by a feedback loop between the sea surface temperatures, surface winds, and thermocline. By clicking on an element of the loop, you should get a new image that shows thermocline, SST, or wind conditions during each of the phases of ENSO (warm El Niño, cool La Niña, or neutral). Learn more about ENSO in this [Seasoned Chaos blog post](https://seasonedchaos.github.io/Round-1-ENSO-is-King/).
-<br><br>
+<br>
 ![]({{ site.baseurl }}/assets/img/arrow_thermocline_sst.png){:width="32%"}
 <img alt="SSTs" src="/assets/img/SSTs.png" style="width: 32%" onclick="this.src='/assets/img/phases_SSTs.png'">
 ![]({{ site.baseurl }}/assets/img/arrow_sst_winds.png){:width="32%"}
@@ -43,7 +41,6 @@ ENSO develops in the tropical Pacific and can be characterized by a feedback loo
 <img alt="Thermocline" src="/assets/img/Thermocline.png" style="width: 32%" onclick="this.src='/assets/img/phases_thermocline.png'">
 ![]({{ site.baseurl }}/assets/img/arrow_winds_thermocline.png){:width="32%"}
 <img alt="" src="/assets/img/Winds.png" style="width: 32%" onclick="this.src='/assets/img/phases_winds.png'">
-<br><sub><i>This cause-and-effect loop between the thermocline, SSTs, and winds describes what is going on during ENSO events. By clicking on an element of the loop, you should get a new image that shows thermocline, SST, or wind conditions during each of the phases.</i></sub>
 
 ## Weather Pattern Pie: Visualization of the Timescales of Climate System
 
@@ -80,7 +77,7 @@ This interactive image was created for this [Seasoned Chaos blog post](https://s
 ![Probabilities for climate forecasting]({{ site.url }}/assets/img/SCCasino_ex2.png)
 [Learn more here](https://seasonedchaos.github.io/Round-2-Welcome-to-the-Seasoned_Chaos-Casino/).
 
-<br><br><br><br>
+---
 
 <div class="img_row">
     <img class="col three left" src="{{ site.baseurl }}/assets/img/NYCsunsetHudson.jpg" alt="" title="Scattering rays"/>
