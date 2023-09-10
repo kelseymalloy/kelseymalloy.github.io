@@ -1,6 +1,6 @@
 ---
 layout: about
-permalink: /about
+permalink: /about/
 title: Kelsey Malloy, Ph.D.
 description: 
 
