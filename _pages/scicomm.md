@@ -72,9 +72,9 @@ This interactive image was created for this [Seasoned Chaos blog post](https://s
 
 ### Climate Forecasting and ENSO
 
-![Probabilities for blackjack]({{ site.url }}/assets/img/SCCasino_ex1.gif)
-<br><br><br>
-![Probabilities for climate forecasting]({{ site.url }}/assets/img/SCCasino_ex2.png)
+<img src="/assets/img/SCCasino_ex1.gif" width="90%"><br>
+<br><br>
+<img src="/assets/img/SCCasino_ex2.png" width="90%"><br>
 [Learn more here](https://seasonedchaos.github.io/Round-2-Welcome-to-the-Seasoned_Chaos-Casino/).
 
 ---
