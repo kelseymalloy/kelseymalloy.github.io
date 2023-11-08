@@ -11,7 +11,7 @@ description: Publications, Invited Talks, Education, Research, Teaching, Service
 
 Malloy, K. and Tippett, M.K. (2023). A Stochastic Statistical Model for U.S. Outbreak-level Tornado Occurrence based on the Large-scale Environment. <i>Mon. Wea. Review</i>, in review.
 <br><br>
-Malloy, K. and Tippett, M.K. (2023). ENSO and MJO Modulation of U.S. Cloud-to-ground Lightning Activity. <i>Mon. Wea. Review</i>, in press.
+Malloy, K. and Tippett, M.K. (2023). ENSO and MJO Modulation of U.S. Cloud-to-ground Lightning Activity. <i>Mon. Wea. Review</i>, [https://doi.org/10.1175/MWR-D-23-0157.1](https://doi.org/10.1175/MWR-D-23-0157.1).
 <br><br>
 Malloy, K. and Kirtman, B.P. (2023). Subseasonal Great Plains Rainfall via Remote Extratropical Teleconnections: Regional Application of Theory-guided Causal Networks. <i>JGR: Atmospheres</i>, [https://doi.org/10.1029/2022JD037795](https://doi.org/10.1029/2022JD037795)
 <br><br>
