@@ -17,17 +17,22 @@ Our understanding of teleconnections, is incomplete, and it is unclear how telec
 
 # Great Plains LLJ Variability & Predictability
 
-
+<img src="/assets/img/GPLLJ_2.jpg" width="90%"><br>
+<img src="/assets/img/GPLLJ_3.jpg" width="90%"><br>
 
 # U.S. Summer Hydroclimate Predictability via Monsoon-forced Teleconnections
 
+<img src="/assets/img/ANA_1.jpg" width="90%"><br>
+<img src="/assets/img/ANA_2.jpg" width="90%"><br>
+<img src="/assets/img/CEN_1.jpeg" width="90%"><br>
+<img src="/assets/img/CEN_2.jpeg" width="90%"><br>
+
 # Climate Modulation of U.S. Severe Convective Storm Activity
 
+<img src="/assets/img/Lightning_1.jpg" width="90%"><br>
+<img src="/assets/img/outbreak_1.png" width="90%"><br>
 
 ---
 
-<div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/NYCsunsetHudson.jpg" alt="" title="Scattering rays"/>
-</div>
 
 
