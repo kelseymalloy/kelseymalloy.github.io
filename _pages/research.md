@@ -2,20 +2,20 @@
 layout: page
 title: Research
 permalink: /research/
-description: Description of my research interests.
+description: Description of my research endeavors and interests.
 ---
 
 Teleconnections describe links between large-scale fluctuations within the climate system and remote surface impacts. The overarching goal of my research is to understand <b>predictable</b> climate variability via <b>teleconnections</b>, bridging topics like:
 - dynamical mechanisms describing teleconnections
 - subseasonal-to-seasonal (S2S) predictability and prediction
 - climate risk assessment for high-impact extremes
-<h3></h3>
+<h4></h4>
 Our understanding of teleconnections, is incomplete, and it is unclear how teleconnections and their associated surface impacts might respond in a warming climate. I'm interested in developing a comprehensive view on climate processes, links, and impacts with a variety of approaches:
 - hierarchal modeling frameworks
 - statistical models
 - data-driven models
 
-# Great Plains LLJ Variability & Predictability
+### Great Plains LLJ Variability & Predictability
 
 The Great Plains low-level jet (LLJ) is an important dynamical mechanism for transporting heat and moisture into the Plains-Midwest during the warm season. In Malloy and Kirtman (2020), we assessed current predictability of the Great Plains LLJ and its associated precipitation in a state-of-the-art climate forecast model. We found that climate forecast models have problems representing observed variability of the Great Plains LLJ beyond two weeks, which degrades rainfall prediction skill.
 <br><img src="/assets/img/GPLLJ_2.jpg" width="90%"><br>
@@ -24,7 +24,7 @@ We identified consistent predictors associated with large-scale Great Plains LLJ
 
 <br><img src="/assets/img/GPLLJ_3.jpg" width="90%"><br>
 
-# U.S. Summer Hydroclimate Predictability via Monsoon-forced Teleconnections
+### U.S. Summer Hydroclimate Predictability via Monsoon-forced Teleconnections
 
 The East Asian monsoon (EAM) can excite a cross-Pacific Rossby wave train. We analyzed the EAM-forced teleconnection using observations and a hierarchy of climate models in Malloy and Kirtman (2022). Observations indicate a statistically significant relationship between a strong EAM and wet anomalies over U.S. west coast and Plains-Midwest, and ENSO modulates the EAM-forced teleconnection over North America. 
 
@@ -39,7 +39,7 @@ We also tested whether monsoon variability can influence Great Plains rainfall v
 <br><img src="/assets/img/CEN_1.jpeg" width="90%"><br>
 <br><img src="/assets/img/CEN_2.jpeg" width="90%"><br>
 
-# Climate Modulation of U.S. Severe Convective Storm Activity
+### Climate Modulation of U.S. Severe Convective Storm Activity
 
 Because observational records related to SCSs are either short or inhomogenous in time-space, it is challenging to detect robust climate links and make observation-based estimates of risk. Therefore, we have developed empirical strategies to downscale SCS activity from environmental conditions provided in reanalysis or climate (forecast) models. In Malloy and Tippett (2023), we developed an empirical model that predicts U.S. cloud-to-ground lightning counts from convective variables. The model well describes daily and seasonal variability of lightning and was used to detect links between ENSO and regional lightning (and hence, thunderstorm) activity.
 
