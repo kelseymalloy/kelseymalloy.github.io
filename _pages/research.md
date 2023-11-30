@@ -13,12 +13,12 @@ Teleconnections describe links between large-scale fluctuations within the clima
 Our understanding of teleconnections, is incomplete, and it is unclear how teleconnections and their associated surface impacts might respond in a warming climate. I'm interested in developing a comprehensive view on climate processes, links, and impacts with a variety of approaches:
 - hierarchal modeling frameworks
 - statistical models
-- data-driven models
+- causal networks
 
 ### Great Plains LLJ Variability & Predictability
 
 The Great Plains low-level jet (LLJ) is an important dynamical mechanism for transporting heat and moisture into the Plains-Midwest during the warm season. In Malloy and Kirtman (2020), we assessed current predictability of the Great Plains LLJ and its associated precipitation in a state-of-the-art climate forecast model. We found that climate forecast models have problems representing observed variability of the Great Plains LLJ beyond two weeks, which degrades rainfall prediction skill.
-<br><img src="/assets/img/GPLLJ_2.jpg" width="90%"><br>
+<br><br><img src="/assets/img/GPLLJ_2.jpg" width="90%"><br>
 
 We identified consistent predictors associated with large-scale Great Plains LLJ variability: a strengthened Caribbean LLJ, negative Pacific-North American (PNA) teleconnection, warm phase of the El Niño-Southern Oscillation (El Niño), and a negative Atlantic Multidecadal Oscillation. The circulation predictors, the Caribbean LLJ and PNA, present the greatest opportunity for considering and assigning confidence in monthly forecasts.
 
