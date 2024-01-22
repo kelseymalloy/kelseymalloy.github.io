@@ -22,6 +22,9 @@ Malloy, K. and Kirtman, B.P. (2020).  Predictability of Midsummer Great Plains L
 Mahoney, K., D. Swales, M.J. Mueller, M. Alexander, M. Hughes, and K. Malloy. (2018). An Examination of an Inland-Penetrating Atmospheric River Flood Event under Potential Future Thermodynamic Conditions. <i>J. Climate</i>, 31, 6281–6297, [https://doi.org/10.1175/JCLI-D-18-0118.1](https://doi.org/10.1175/JCLI-D-18-0118.1).
 
 ### Invited Talks
+
+<i>A Stochastic Statistical Model for U.S. Outbreak-level Tornado Occurrence based on the Large-scale Environment</i> | Laboratoire de Science du Climat et de l'Environnement (LSCE)​ | January 2024
+<br><br>
 <i>Subseasonal Great Plains Rainfall via Remote Extratropical Teleconnections: ​Regional Application of Theory-guided ​Causal Networks​</i> | AGU Early Career Science Seminar​ | March 2023
 <br><br>
 <i>Predictability of U.S. Great Plains Summer Hydroclimate via ​Extratropical Teleconnections​</i> | Lamont-Doherty Earth Observatory (LDEO) Ocean and Climate Physics (OCP) Seminar | February 2023
