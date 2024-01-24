@@ -9,17 +9,19 @@ description: Publications, Invited Talks, Education, Research, Teaching, Service
 
 ### Publications
 
-Malloy, K. and Tippett, M.K. (2023). A Stochastic Statistical Model for U.S. Outbreak-level Tornado Occurrence based on the Large-scale Environment. <i>Mon. Wea. Review</i>, in revision.
+Tippett, M.K., <u>Malloy, K.</u>, and Lee, S.H. (2023). Modulation of U.S. tornado activity by year-round North American weather regimes. <i>Mon. Wea. Review</i>, submitted.
 <br><br>
-Malloy, K. and Tippett, M.K. (2023). ENSO and MJO Modulation of U.S. Cloud-to-ground Lightning Activity. <i>Mon. Wea. Review</i>, [https://doi.org/10.1175/MWR-D-23-0157.1](https://doi.org/10.1175/MWR-D-23-0157.1).
+<u>Malloy, K.</u> and Tippett, M.K. (2023). A Stochastic Statistical Model for U.S. Outbreak-level Tornado Occurrence based on the Large-scale Environment. <i>Mon. Wea. Review</i>, in revision.
 <br><br>
-Malloy, K. and Kirtman, B.P. (2023). Subseasonal Great Plains Rainfall via Remote Extratropical Teleconnections: Regional Application of Theory-guided Causal Networks. <i>JGR: Atmospheres</i>, [https://doi.org/10.1029/2022JD037795](https://doi.org/10.1029/2022JD037795)
+<u>Malloy, K.</u> and Tippett, M.K. (2023). ENSO and MJO Modulation of U.S. Cloud-to-ground Lightning Activity. <i>Mon. Wea. Review</i>, [https://doi.org/10.1175/MWR-D-23-0157.1](https://doi.org/10.1175/MWR-D-23-0157.1).
 <br><br>
-Malloy, K. and Kirtman, B.P. (2022). The Summer Asia-North America Teleconnection and its Modulation by ENSO in Community Atmosphere Model, Version 5 (CAM5). <i>Climate Dynamics</i>, [https://doi.org/10.1007/s00382-022-06205-4](https://doi.org/10.1007/s00382-022-06205-4)
+<u>Malloy, K.</u> and Kirtman, B.P. (2023). Subseasonal Great Plains Rainfall via Remote Extratropical Teleconnections: Regional Application of Theory-guided Causal Networks. <i>JGR: Atmospheres</i>, [https://doi.org/10.1029/2022JD037795](https://doi.org/10.1029/2022JD037795)
 <br><br>
-Malloy, K. and Kirtman, B.P. (2020).  Predictability of Midsummer Great Plains Low-Level Jet and Associated Precipitation. <i>Wea. Forecasting</i>, 35, 215–235, [https://doi.org/10.1175/WAF-D-19-0103.1](https://doi.org/10.1175/WAF-D-19-0103.1).
+<u>Malloy, K.</u> and Kirtman, B.P. (2022). The Summer Asia-North America Teleconnection and its Modulation by ENSO in Community Atmosphere Model, Version 5 (CAM5). <i>Climate Dynamics</i>, [https://doi.org/10.1007/s00382-022-06205-4](https://doi.org/10.1007/s00382-022-06205-4)
 <br><br>
-Mahoney, K., D. Swales, M.J. Mueller, M. Alexander, M. Hughes, and K. Malloy. (2018). An Examination of an Inland-Penetrating Atmospheric River Flood Event under Potential Future Thermodynamic Conditions. <i>J. Climate</i>, 31, 6281–6297, [https://doi.org/10.1175/JCLI-D-18-0118.1](https://doi.org/10.1175/JCLI-D-18-0118.1).
+<u>Malloy, K.</u> and Kirtman, B.P. (2020).  Predictability of Midsummer Great Plains Low-Level Jet and Associated Precipitation. <i>Wea. Forecasting</i>, 35, 215–235, [https://doi.org/10.1175/WAF-D-19-0103.1](https://doi.org/10.1175/WAF-D-19-0103.1).
+<br><br>
+Mahoney, K., D. Swales, M.J. Mueller, M. Alexander, M. Hughes, and <u>K. Malloy</u>. (2018). An Examination of an Inland-Penetrating Atmospheric River Flood Event under Potential Future Thermodynamic Conditions. <i>J. Climate</i>, 31, 6281–6297, [https://doi.org/10.1175/JCLI-D-18-0118.1](https://doi.org/10.1175/JCLI-D-18-0118.1).
 
 ### Invited Talks
 
