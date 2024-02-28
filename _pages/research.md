@@ -10,7 +10,7 @@ Teleconnections describe links between large-scale fluctuations within the clima
 - subseasonal-to-seasonal (S2S) predictability and prediction
 - climate risk assessment for high-impact extremes
 <h4></h4>
-Our understanding of teleconnections, is incomplete, and it is unclear how teleconnections and their associated surface impacts might respond in a warming climate. I'm interested in developing a comprehensive view on climate processes, links, and impacts with a variety of approaches:
+Our understanding of teleconnections is incomplete, and it is unclear how teleconnections and their associated surface impacts might respond in a warming climate. I'm interested in developing a comprehensive view on climate processes, links, and impacts with a variety of approaches:
 - hierarchal modeling frameworks
 - statistical models
 - causal networks
@@ -30,7 +30,7 @@ The East Asian monsoon (EAM) can excite a cross-Pacific Rossby wave train. We an
 
 <br><img src="/assets/img/ANA_1.jpg" width="90%"><br>
 
-Using simpler climate models, we found EAM forcing location greatly contributes to EAM-forced teleconnection and climate model biases in teleconnection, and jet stream mean state bias explains the ENSO-related biases. The EAM-forced teleconnection its modulation by ENSO forcing are well described by dry dynamics on seasonal-to-interannual timescales, including the constructive (destructive) interference between El Niño (La Niña) modulation and the ANA pattern. 
+Using simpler climate models, we found the location of EAM heating greatly influences its teleconnection to North America and can explain climate model biases in the EAM-forced teleconnection, and jet stream mean state bias explains the ENSO-related biases. The EAM-forced teleconnection and its modulation by ENSO are well described by dry dynamics on seasonal-to-interannual timescales, including the constructive (destructive) interference of El Niño (La Niña) and the EAM signals. 
 
 <br><img src="/assets/img/ANA_2.jpg" width="90%"><br>
 
@@ -41,7 +41,7 @@ We also tested whether monsoon variability can influence Great Plains rainfall v
 
 ### Climate Modulation of U.S. Severe Convective Storm Activity
 
-Because observational records related to SCSs are either short or inhomogenous in time-space, it is challenging to detect robust climate links and make observation-based estimates of risk. Therefore, we have developed empirical strategies to downscale SCS activity from environmental conditions provided in reanalysis or climate (forecast) models. In Malloy and Tippett (2023), we developed an empirical model that predicts U.S. cloud-to-ground lightning counts from convective variables. The model well describes daily and seasonal variability of lightning and was used to detect links between ENSO and regional lightning (and hence, thunderstorm) activity.
+Because observational records related to SCSs are either short or inhomogenous in time-space, it is challenging to detect robust climate links and make observation-based estimates of risk. Therefore, we have developed empirical strategies to downscale SCS activity from environmental conditions provided in reanalysis or climate (forecast) models. In Malloy et al. (2023), we developed an empirical model that predicts U.S. cloud-to-ground lightning counts from convective variables. The model well describes daily and seasonal variability of lightning and was used to detect links between ENSO and regional lightning (and hence, thunderstorm) activity.
 
 <br><img src="/assets/img/Lightning_1.jpg" width="90%"><br>
 
