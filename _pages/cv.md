@@ -11,7 +11,7 @@ description: Publications, Invited Talks, Education, Research, Teaching, Service
 
 Tippett, M.K., <u>Malloy, K.</u>, and Lee, S.H. (2023). Modulation of U.S. tornado activity by year-round North American weather regimes. <i>Mon. Wea. Review</i>, submitted.
 <br><br>
-<u>Malloy, K.</u> and Tippett, M.K. (2023). A Stochastic Statistical Model for U.S. Outbreak-level Tornado Occurrence based on the Large-scale Environment. <i>Mon. Wea. Review</i>, in revision.
+<u>Malloy, K.</u> and Tippett, M.K. (2023). A Stochastic Statistical Model for U.S. Outbreak-level Tornado Occurrence based on the Large-scale Environment. <i>Mon. Wea. Review</i>, [https://doi.org/10.1175/MWR-D-23-0219.1](https://doi.org/10.1175/MWR-D-23-0219.1).
 <br><br>
 <u>Malloy, K.</u> and Tippett, M.K. (2023). ENSO and MJO Modulation of U.S. Cloud-to-ground Lightning Activity. <i>Mon. Wea. Review</i>, [https://doi.org/10.1175/MWR-D-23-0157.1](https://doi.org/10.1175/MWR-D-23-0157.1).
 <br><br>
