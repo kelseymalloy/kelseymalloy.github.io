@@ -45,7 +45,7 @@ Because observational records related to SCSs are either short or inhomogenous i
 
 <br><img src="/assets/img/Lightning_1.jpg" width="90%"><br>
 
-We have also developed a tornado outbreak index predicts (1) a U.S. probability map for outbreak-level tornadoes and (2) the expected number and <i>probability distribution</i> of total U.S. outbreak-level tornadoes (Malloy and Tippett, in revision). The included stochastic component allows for a range of outcomes to be generated (i.e., synthetic event set). In ongoing work, we have used the model to investigate modulation of tornado outbreak activity from ENSO and weather regimes and to detect trends in U.S. tornado outbreak activity. 
+We have also developed a tornado outbreak index predicts (1) a U.S. probability map for outbreak-level tornadoes and (2) the expected number and <i>probability distribution</i> of total U.S. outbreak-level tornadoes (Malloy and Tippett 2024). The included stochastic component allows for a range of outcomes to be generated (i.e., synthetic event set). We have used the model to investigate modulation of tornado outbreak activity from ENSO and weather regimes (Tippett et al. 2024, in revision) and to detect trends in U.S. tornado outbreak activity. 
 
 <br><img src="/assets/img/outbreak_1.png" width="90%"><br>
 
