@@ -85,7 +85,7 @@ B.S.: University of Maryland, College Park | <i>2017</i>
 + Poster presentation at 2020 AMS annual meeting
 
 #### Collaborator, PyWR, Weather Typing, and S2S Sources of Predictability Project 
-<i>Fall 2017-Present</i>
+<i>Summer 2022-Winter 2023</i>
 <br>Project leads: Ángel Muñoz and Andrew Robertson
 + Project in collaboration with participants of NCAR Advanced Summer Program The Science of S2S Predictions PyWR and Weather Typing group and International Research Institute/Lamont-Doherty Earth Observatory (IRI/LDEO) scientists
 + Applying weather typing via k-means clustering to explore summertime predictability of North Atlantic circulation and associated precipitation
@@ -122,7 +122,7 @@ B.S.: University of Maryland, College Park | <i>2017</i>
 +	Poster presentation at 2016 AMS Annual Meeting
   
 ### Teaching Experience
-Tutor for middle and high school students, mostly math and science | <i>Present</i>
+Tutor for middle and high school students, mostly math and science | <i>2018-2022</i>
 <br>Teaching Assistant for Data Analysis Methods (graduate course) | <i>Spring 2020</i>
 <br>Teaching Assistant for Weather Forecasting | <i>Spring 2019</i>
 <br>Teaching Assistant for Large-scale Atmospheric & Oceanic Dynamics | <i>Spring 2017</i>
