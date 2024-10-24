@@ -29,6 +29,10 @@ Mahoney, K., D. Swales, M.J. Mueller, M. Alexander, M. Hughes, and <u>K. Malloy<
 
 ### Invited Talks
 
+<i>Predictable Climate Variability and its Applications to Climate Forecasting and Risk</i> | University of North Dakota Dept. Atmoshperic Sciences Seminar​ | October 2024
+<br><br>
+<i>Modeling Severe Convective Storms: Understanding Current Risk andits Climate Signals</i> | ILS Bermuda Convergence Conference 2024​ | October 2024
+<br><br>
 <i>A Stochastic Statistical Model for U.S. Outbreak-level Tornado Occurrence based on the Large-scale Environment</i> | Laboratoire de Science du Climat et de l'Environnement (LSCE)​ | January 2024
 <br><br>
 <i>Subseasonal Great Plains Rainfall via Remote Extratropical Teleconnections: ​Regional Application of Theory-guided ​Causal Networks​</i> | AGU Early Career Science Seminar​ | March 2023
