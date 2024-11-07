@@ -50,7 +50,6 @@ We have also developed a tornado outbreak index predicts (1) a U.S. probability 
 The tornado outbreak index is being used for various applications:
 - With Global Ensemble Forecast System (GEFS) hindcasts of environments, we used the tornado outbreak index to evaluate prediction skill of tornado outbreaks (Malloy and Tippett 2024, in revision), finding that there may be skill in winter, spring, and fall past the weather (>7-day lead) timescale.
 - In ongoing work, we are also using the GEFS hindcasts to construct a synthetic event set of tornado outbreaks to better understand present-day risk of tornado outbreaks and climate-related shifts in outbreak activity (Malloy and Tippett, in prep). 
-[//]: <> - We have tested the "analogue" procedure for detection of climate change signals in recent outbreak events, considering the background synoptic pattern and comparing days with those patterns in a past period vs. present period. Certain event synoptic setups have more robust signals
 
 <br><img src="/assets/img/outbreak_1.png" width="90%"><br>
 
