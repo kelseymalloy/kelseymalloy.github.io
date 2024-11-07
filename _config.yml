@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Kelsey Malloy
-email: kmm2374@columbia.edu
+email: kmmalloy@udel.edu
 description: Climate Scientist & Postdoctoral Research Scientist 
 
 url:  # the base hostname & protocol for your site
@@ -32,7 +32,7 @@ scholar_userid: wYovfMsAAAAJ # your Google Scholar ID
 blogger_url: https://seasonedchaos.github.io # your blogger URL
 
 contact_note: >
-  The best ways to contact me are through email or twitter.
+  The best way to contact me is through email.
 
 #google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
