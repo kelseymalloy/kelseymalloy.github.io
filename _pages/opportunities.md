@@ -10,7 +10,7 @@ I am looking for 1-2 PhD students to start in Fall 2025!
 <iframe src="/assets/pdf/PhD-Ad_Winter2024.pdf" width="90%" height="500px"></iframe>
 <br>
 
-Please contact me at kmmalloy at udel dot edu for more information or to apply.
+Please contact me at kmmalloy at udel dot edu for more information or if interested in applying.
 
 ---
 
