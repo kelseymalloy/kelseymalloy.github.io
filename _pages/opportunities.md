@@ -5,9 +5,12 @@ permalink: /opportunities/
 description: Current openings in my lab.
 ---
 
-I am looking for a PhD Student to start in Fall 2025! 
+I am looking for 1-2 PhD students to start in Fall 2025! 
+<br>
+<iframe src="assets/pdf/PhD-Ad_Winter2024.pdf" width="90%"></iframe>
 
-Please contact me at kmmalloy at udel dot edu for more information.
+
+Please contact me at kmmalloy at udel dot edu for more information or to apply.
 
 ---
 
