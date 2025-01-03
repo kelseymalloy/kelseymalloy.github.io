@@ -12,7 +12,7 @@ GEOG452-652 is discussion-based course, focusing on the general theoretical and 
 ---
 
 <div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/hudson_fall.jpg" alt="" title="fall in NY"/>
+    <img class="col three left" src="{{ site.baseurl }}/assets/img/udel_campus.jpg" alt="" title="UD campus at sunset"/>
 </div>
 
 
