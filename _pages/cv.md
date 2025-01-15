@@ -17,7 +17,7 @@ Tippett, M.K., <u>Malloy, K.</u>, and Lee, S.H. (2023). Modulation of U.S. torna
 <br><br>
 <u>Malloy, K.</u> and Tippett, M.K. (2024). A Stochastic Statistical Model for U.S. Outbreak-level Tornado Occurrence based on the Large-scale Environment. <i>Mon. Wea. Review</i>, [https://doi.org/10.1175/MWR-D-23-0219.1](https://doi.org/10.1175/MWR-D-23-0219.1).
 <br><br>
-<u>Malloy, K.</u> and Tippett, M.K. (2023). ENSO and MJO Modulation of U.S. Cloud-to-ground Lightning Activity. <i>Mon. Wea. Review</i>, [https://doi.org/10.1175/MWR-D-23-0157.1](https://doi.org/10.1175/MWR-D-23-0157.1).
+<u>Malloy, K.</u>, Tippett, M.K., and Koshak, W.J. (2023). ENSO and MJO Modulation of U.S. Cloud-to-ground Lightning Activity. <i>Mon. Wea. Review</i>, [https://doi.org/10.1175/MWR-D-23-0157.1](https://doi.org/10.1175/MWR-D-23-0157.1).
 <br><br>
 <u>Malloy, K.</u> and Kirtman, B.P. (2023). Subseasonal Great Plains Rainfall via Remote Extratropical Teleconnections: Regional Application of Theory-guided Causal Networks. <i>JGR: Atmospheres</i>, [https://doi.org/10.1029/2022JD037795](https://doi.org/10.1029/2022JD037795)
 <br><br>
