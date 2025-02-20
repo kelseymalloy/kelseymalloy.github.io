@@ -9,9 +9,11 @@ description: Publications, Invited Talks, Education, Research, Teaching, Service
 
 ### Publications
 
-Kirtman, B.P., <u>et al.</u>, (2024). A Simplified Physics Atmosphere General Circulation Model for Idealized Climate Dynamics Studies. <i>Bull. Am. Meteorol. Soc.</i>, submitted. 
+<u>Malloy, K.</u>, Faranda, D., and Tippett, M.K. (2025). Observations-only Event Attribution of Climate Change Influence on Recent U.S. Tornado Outbreaks. <i>Proc. Natl. Acad. Sci.</i>, submitted. 
 <br><br>
-<u>Malloy, K.</u> and Tippett, M.K. (2024). Forecasting U.S. Tornado Outbreak Activity and Associated Environments in the Global Ensemble Forecast System (GEFS). <i>Wea. Forecasting</i>, in revision.
+Kirtman, B.P., <u>et al.</u>, (2024). A Simplified Physics Atmosphere General Circulation Model for Idealized Climate Dynamics Studies. <i>Bull. Am. Meteorol. Soc.</i>, in revision. 
+<br><br>
+<u>Malloy, K.</u> and Tippett, M.K. (2024). Forecasting U.S. Tornado Outbreak Activity and Associated Environments in the Global Ensemble Forecast System (GEFS). <i>Wea. Forecasting</i>, in press.
 <br><br>
 Tippett, M.K., <u>Malloy, K.</u>, and Lee, S.H. (2023). Modulation of U.S. tornado activity by year-round North American weather regimes. <i>Mon. Wea. Review</i>, [https://doi.org/10.1175/MWR-D-24-0016.1](https://doi.org/10.1175/MWR-D-24-0016.1).
 <br><br>
