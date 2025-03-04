@@ -8,8 +8,8 @@ profile:
   align: right
   image: headshot_malloy.jpg
   address: >
-    <p>Dept. of Applied Physics and Applied Mathematics</p>
-    <p>Columbia University</p>
+    <p>Dept. of Geography and Spatial Sciences</p>
+    <p>University of Delaware</p>
 
 news: false
 social: true
