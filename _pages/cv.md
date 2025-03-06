@@ -71,6 +71,7 @@ Co-founder, Writer, Editor, [Seasoned Chaos](https://seasonedchaos.github.io) bl
 <br>Reviewer, ORCID: ([https://orcid.org/0000-0002-1989-7490](https://orcid.org/0000-0002-1989-7490))
 <br>Mentor, Geosciences Education & Mentorship Support (GEMS) | <i>2022-2024</i>
 <br>Mentor, Rosenstiel School Graduate-Undergraduate Mentoring (GUM) program | <i>2021-2022</i>
+<br>Lead Coordinator, Rosenstiel School Students for Students outreach program | <i>2020-2022</i>
 
 ### Awards
 * Highly Commended, InsuranceERM Climate risk research paper of the year for <i>A Stochastic Statistical Model for U.S. Outbreak-level Tornado Occurrence based on the Large-scale Environment</i>
