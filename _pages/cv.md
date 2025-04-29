@@ -48,8 +48,8 @@ Mahoney, K., D. Swales, M.J. Mueller, M. Alexander, M. Hughes, and <u>K. Malloy<
 <i>Subseasonal Great Plains Rainfall via Remote Extratropical Teleconnections: ​Application of Theory-guided ​Causal Networks​</i> | AGU Annual Meeting Session on S2S Prediction | December 2022
 <br><br>
 <i>Predictability of ​ U.S. Great Plains Summer Hydroclimate via East Asian Monsoon-forced Teleconnection​</i> | NASA GMAO Seasonal Prediction Group | June 2022
-<br><br>
-<i>Predictability of the Great Plains Low-level Jet and its Associated Precipitation​</i> | NMME Monthly Meeting | February 2020
+<!-- <br><br>
+<i>Predictability of the Great Plains Low-level Jet and its Associated Precipitation​</i> | NMME Monthly Meeting | February 2020 -->
 
 ### Education
 Ph.D.: University of Miami Rosenstiel School of Marine & Atmospheric Science | <i>2022</i>
