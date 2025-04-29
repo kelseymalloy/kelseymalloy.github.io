@@ -9,7 +9,7 @@ description: Publications, Invited Talks, Education, Research, Teaching, Service
 
 ### Publications
 
-<u>Malloy, K.</u>, Faranda, D., and Tippett, M.K. (2025). Observations-only Event Attribution of Climate Change Influence on Recent U.S. Tornado Outbreaks. <i>Proc. Natl. Acad. Sci.</i>, submitted. 
+<u>Malloy, K.</u>, Faranda, D., and Tippett, M.K. (2025). Observations-only Event Attribution of Climate Change Influence on Recent U.S. Tornado Outbreaks. <i>Earth's Future</i>, submitted. 
 <br><br>
 Kirtman, B.P., <u>et al.</u>, (2024). A Simplified Physics Atmosphere General Circulation Model for Idealized Climate Dynamics Studies. <i>Bull. Am. Meteorol. Soc.</i>, in revision. 
 <br><br>
@@ -31,6 +31,10 @@ Mahoney, K., D. Swales, M.J. Mueller, M. Alexander, M. Hughes, and <u>K. Malloy<
 
 ### Invited Talks
 
+<!-- <i>Understanding Evolving Climate Variability and Risk for Severe Convective Storms</i> | Univ. Maryland Atmospheric and Oceanic Sciences Dept. Seminar | May 2025
+<br><br> -->
+<i>How Climate is Influencing Weather Extremes</i> | Stroud Water Research Center​ | April 2025
+<br><br>
 <i>Predictable Climate Variability and its Applications to Climate Forecasting and Risk</i> | University of North Dakota Dept. Atmoshperic Sciences Seminar​ | October 2024
 <br><br>
 <i>Modeling Severe Convective Storms: Understanding Current Risk andits Climate Signals</i> | ILS Bermuda Convergence Conference 2024​ | October 2024
@@ -67,6 +71,7 @@ B.S.: University of Maryland, College Park | <i>2017</i>
 <br>Supervisor: Michael K. Tippett
   
 ### External Projects and Service
+US CLIVAR [Predictability, Predictions, and Applications Interface (PPAI) Panel](https://usclivar.org/panels/ppai) | <i>Present</i>
 Co-founder, Writer, Editor, [Seasoned Chaos](https://seasonedchaos.github.io) blog about subseasonal-to-seasonal forecasting | <i>Present</i>
 <br>Reviewer, ORCID: ([https://orcid.org/0000-0002-1989-7490](https://orcid.org/0000-0002-1989-7490))
 <br>Mentor, Geosciences Education & Mentorship Support (GEMS) | <i>2022-2024</i>
