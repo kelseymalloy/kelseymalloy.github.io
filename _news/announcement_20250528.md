@@ -7,4 +7,4 @@ inline: true
 related_posts: false
 ---
 
-Kelsey Malloy wrote a guest post for ENSO Blog about the 2025 spring tornado season!
+Kelsey Malloy wrote a [guest post for ENSO Blog](https://www.climate.gov/news-features/blogs/enso/tornado-season-2025-active-through-april-and-may-keeping-pace) about the 2025 spring tornado season!
