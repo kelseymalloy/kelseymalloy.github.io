@@ -15,11 +15,11 @@ news: false
 social: true
 ---
 
-#### Kelsey Malloy, Ph.D.
+#### Malloy Climate Research Group
 
-I am an Assistant Professor of Climatology in the Department of Geography and Spatial Sciences at the University of Delaware. My research focuses broadly on climate variability and dynamics, extratropical-tropical interactions, weather and climate extremes, climate risk, and predictability. Recently, I have been exploring the influence of climate on severe convective storm risk and understanding subseasonal-to-seasonal predictability through teleconnections. I am also involved in a science communication project for general audiences (see [Seasoned Chaos](http://seasonedchaos.github.io){:target="\_blank"}).
+Welcome! I am an Assistant Professor of Climatology in the Department of Geography and Spatial Sciences at the University of Delaware. My group's research focuses broadly on predictable climate variability and its applications. This includes climate dynamics, extratropical-tropical interactions, weather and climate extremes, climate risk, and subseasonal-to-seasonal predictability and prediction. I am also involved in a science communication project for general audiences (see [Seasoned Chaos](http://seasonedchaos.github.io){:target="\_blank"}).
 <br><br>
-You can explore my webpage using the header at the top of the page. It contains current research projects & my CV. My professional social media & project accounts can be found below. Prospective students should visit the "Opportunities" tab for updates on opening in my lab. Enjoy!
+You can explore my webpage using the header at the top of the page. It contains information about the team, our research, and other relevant information. My professional social media & project accounts can be found below. Prospective students should visit the "Opportunities" tab for updates on openings in my lab. Enjoy!
 <div class="img_row">
     <img class="col three left" src="{{ site.baseurl }}/assets/img/sunset.jpg" alt="" title="VA Key sunset with shower"/>
 </div>
