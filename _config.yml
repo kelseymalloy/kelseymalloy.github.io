@@ -63,17 +63,17 @@ contact_note: >
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
-#collections:
-#  news:
-#    defaults:
-#      layout: post
-#    output: true
-#    permalink: /news/:path/
-#  projects:
-#    output: true
-#    permalink: /projects/:path/
+collections:
+ news:
+   defaults:
+     layout: post
+   output: true
+   permalink: /news/:path/
+ projects:
+   output: false
+   permalink: /projects/:path/
 
-#news_limit: 5
+news_limit: 5
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
