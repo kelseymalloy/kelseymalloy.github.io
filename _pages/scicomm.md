@@ -5,6 +5,10 @@ permalink: /scicomm/
 description: Collection of cool science comunication and visualization projects.
 ---
 
+# TEDxUniversityofDelaware
+
+I am a speaker at the TEDxUniversityofDelaware event held November 2025. I will share climate science through storytelling of climate’s fingerprint on human history and expeirence. More info here: [https://tedx.udel.edu/](https://tedx.udel.edu/).
+
 # ENSO Blog (Climate.gov)
 
 I contributed to this ENSO Blog post on the 2025 Tornado Season: [https://www.climate.gov/news-features/blogs/enso/tornado-season-2025-active-through-april-and-may-keeping-pace](https://www.climate.gov/news-features/blogs/enso/tornado-season-2025-active-through-april-and-may-keeping-pace).<br>
