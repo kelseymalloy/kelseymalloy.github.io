@@ -5,9 +5,16 @@ permalink: /scicomm/
 description: Collection of cool science comunication and visualization projects.
 ---
 
-Sometimes I create images, animations, etc. related or not related to weather and climate. You can find some of my scripts and output at [my fun-data-science repo](https://github.com/kelseymalloy/fun-data-science.git)
+# ENSO Blog (Climate.gov)
+
+I contributed to this ENSO Blog post on the 2025 Tornado Season: [https://www.climate.gov/news-features/blogs/enso/tornado-season-2025-active-through-april-and-may-keeping-pace](https://www.climate.gov/news-features/blogs/enso/tornado-season-2025-active-through-april-and-may-keeping-pace).<br>
+<i>Tornado activity (red dots) during the March 14-15, 2025, outbreak was concentrated in areas where heavy convective rainfall (left map, darkest blue areas) overlapped with the areas of extreme atmospheric instability (right map, orange shading) and wind shear/rotation potential (right map, blue shading).</i>
+
+<img src="/assets/img/map-pair-tornado-activity-rainfall.png" width="90%"><br>
 
 # Seasoned Chaos
+
+Sometimes I create images, animations, etc. related or not related to weather and climate. You can find some of my scripts and output at [my fun-data-science repo](https://github.com/kelseymalloy/fun-data-science.git)
 
 Most of my science communication work is done through [Seasoned Chaos](https://seasonedchaos.github.io/The-More-We-Learn-the-Less-We-Know-An-Introduction-to-Chaos/) blog posts. My [writer bio page](https://seasonedchaos.github.io/people/kelsey-malloy/) lists all the posts I have (co-)written. We also keep a [Github repository](https://github.com/seasonedchaos/seasonedchaos_codes) with some of the scripts used to create some of the figures/animations, which I have contributed to extensively.
 
