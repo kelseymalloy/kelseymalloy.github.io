@@ -7,7 +7,7 @@ description: Collection of cool science comunication and visualization projects.
 
 # TEDxUniversityofDelaware
 
-I am a speaker at the TEDxUniversityofDelaware event held November 2025. I will share climate science through storytelling of climate’s fingerprint on human history and expeirence. More info here: [https://tedx.udel.edu/](https://tedx.udel.edu/).
+I am a speaker at the TEDxUniversityofDelaware event held November 2025. I will share climate science through storytelling of climate’s fingerprint on human history and experience. More info here: [https://tedx.udel.edu/](https://tedx.udel.edu/).
 
 # ENSO Blog (Climate.gov)
 
