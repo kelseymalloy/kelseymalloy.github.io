@@ -19,7 +19,7 @@ Kirtman, B.P., <u>et al.</u>, (2025). A Simplified Physics Atmosphere General Ci
 <br><br>
 <u>Malloy, K.</u> and Tippett, M.K. (2025). Forecasting U.S. Tornado Outbreak Activity and Associated Environments in the Global Ensemble Forecast System (GEFS). <i>Wea. Forecasting</i>, [https://doi.org/10.1175/WAF-D-24-0138.1](https://doi.org/10.1175/WAF-D-24-0138.1)
 <br><br>
-Tippett, M.K., <u>Malloy, K.</u>, and Lee, S.H. (2023). Modulation of U.S. tornado activity by year-round North American weather regimes. <i>Mon. Wea. Review</i>, [https://doi.org/10.1175/MWR-D-24-0016.1](https://doi.org/10.1175/MWR-D-24-0016.1).
+Tippett, M.K., <u>Malloy, K.</u>, and Lee, S.H. (2024). Modulation of U.S. tornado activity by year-round North American weather regimes. <i>Mon. Wea. Review</i>, [https://doi.org/10.1175/MWR-D-24-0016.1](https://doi.org/10.1175/MWR-D-24-0016.1).
 <br><br>
 <u>Malloy, K.</u> and Tippett, M.K. (2024). A Stochastic Statistical Model for U.S. Outbreak-level Tornado Occurrence based on the Large-scale Environment. <i>Mon. Wea. Review</i>, [https://doi.org/10.1175/MWR-D-23-0219.1](https://doi.org/10.1175/MWR-D-23-0219.1).
 <br><br>
