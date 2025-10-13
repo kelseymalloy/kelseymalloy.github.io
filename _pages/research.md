@@ -15,14 +15,22 @@ Our understanding of teleconnections is incomplete, and it is unclear how teleco
 - statistical models
 - causal networks
 
-### Great Plains LLJ Variability & Predictability
+### Climate Modulation of U.S. Severe Convective Storm Activity
 
-The Great Plains low-level jet (LLJ) is an important dynamical mechanism for transporting heat and moisture into the Plains-Midwest during the warm season. In Malloy and Kirtman (2020), we assessed current predictability of the Great Plains LLJ and its associated precipitation in a state-of-the-art climate forecast model. We found that climate forecast models have problems representing observed variability of the Great Plains LLJ beyond two weeks, which degrades rainfall prediction skill.
-<br><br><img src="/assets/img/GPLLJ_2.jpg" width="90%"><br>
+Because observational records related to SCSs are either short or inhomogenous in time-space, it is challenging to detect robust climate links and make observation-based estimates of risk. Therefore, we have developed empirical strategies to downscale SCS activity from environmental conditions provided in reanalysis or climate (forecast) models. In Malloy et al. (2023), we developed an empirical model that predicts U.S. cloud-to-ground lightning counts from convective variables. The model well describes daily and seasonal variability of lightning and was used to detect links between ENSO and regional lightning (and hence, thunderstorm) activity.
 
-We identified consistent predictors associated with large-scale Great Plains LLJ variability: a strengthened Caribbean LLJ, negative Pacific-North American (PNA) teleconnection, warm phase of the El Niño-Southern Oscillation (El Niño), and a negative Atlantic Multidecadal Oscillation. The circulation predictors, the Caribbean LLJ and PNA, present the greatest opportunity for considering and assigning confidence in monthly forecasts.
+<br><img src="/assets/img/Lightning_1.jpg" width="90%"><br>
 
-<br><img src="/assets/img/GPLLJ_3.jpg" width="90%"><br>
+We have also developed a tornado outbreak index predicts (1) a U.S. probability map for outbreak-level tornadoes and (2) the expected number and <i>probability distribution</i> of total U.S. outbreak-level tornadoes (Malloy and Tippett 2024). The included stochastic component allows for a range of outcomes to be generated (i.e., synthetic event set). We have used the model to investigate modulation of tornado outbreak activity from ENSO and weather regimes (Tippett et al. 2024) and to detect trends in U.S. tornado outbreak activity. 
+
+<br><img src="/assets/img/outbreak_1.png" width="90%"><br>
+
+The tornado outbreak index is being used for various applications:
+- With Global Ensemble Forecast System (GEFS) hindcasts of environments, we used the tornado outbreak index to evaluate prediction skill of tornado outbreaks (Malloy and Tippett 2025), finding that there may be skill in winter, spring, and fall past the weather (>7-day lead) timescale.
+- In ongoing work, we are using the GEFS hindcasts to construct a synthetic event set of tornado outbreaks to better understand present-day risk of tornado outbreaks and climate-related shifts in outbreak activity (Malloy and Tippett, 2025, submitted).
+- In ongoing work, we are developing a tornado count model specifically for CMIP6 applications to downscale future tornado projections and better understand present-day changes (Malloy et al, 2025).
+
+<br><img src="/assets/img/outbreak_1.png" width="90%"><br>
 
 ### U.S. Summer Hydroclimate Predictability via Monsoon-forced Teleconnections
 
@@ -39,19 +47,14 @@ We also tested whether monsoon variability can influence Great Plains rainfall v
 <br><img src="/assets/img/CEN_1.jpeg" width="90%"><br>
 <br><img src="/assets/img/CEN_2.jpeg" width="90%"><br>
 
-### Climate Modulation of U.S. Severe Convective Storm Activity
+### Great Plains LLJ Variability & Predictability
 
-Because observational records related to SCSs are either short or inhomogenous in time-space, it is challenging to detect robust climate links and make observation-based estimates of risk. Therefore, we have developed empirical strategies to downscale SCS activity from environmental conditions provided in reanalysis or climate (forecast) models. In Malloy et al. (2023), we developed an empirical model that predicts U.S. cloud-to-ground lightning counts from convective variables. The model well describes daily and seasonal variability of lightning and was used to detect links between ENSO and regional lightning (and hence, thunderstorm) activity.
+The Great Plains low-level jet (LLJ) is an important dynamical mechanism for transporting heat and moisture into the Plains-Midwest during the warm season. In Malloy and Kirtman (2020), we assessed current predictability of the Great Plains LLJ and its associated precipitation in a state-of-the-art climate forecast model. We found that climate forecast models have problems representing observed variability of the Great Plains LLJ beyond two weeks, which degrades rainfall prediction skill.
+<br><br><img src="/assets/img/GPLLJ_2.jpg" width="90%"><br>
 
-<br><img src="/assets/img/Lightning_1.jpg" width="90%"><br>
+We identified consistent predictors associated with large-scale Great Plains LLJ variability: a strengthened Caribbean LLJ, negative Pacific-North American (PNA) teleconnection, warm phase of the El Niño-Southern Oscillation (El Niño), and a negative Atlantic Multidecadal Oscillation. The circulation predictors, the Caribbean LLJ and PNA, present the greatest opportunity for considering and assigning confidence in monthly forecasts.
 
-We have also developed a tornado outbreak index predicts (1) a U.S. probability map for outbreak-level tornadoes and (2) the expected number and <i>probability distribution</i> of total U.S. outbreak-level tornadoes (Malloy and Tippett 2024). The included stochastic component allows for a range of outcomes to be generated (i.e., synthetic event set). We have used the model to investigate modulation of tornado outbreak activity from ENSO and weather regimes (Tippett et al. 2024) and to detect trends in U.S. tornado outbreak activity. 
-
-The tornado outbreak index is being used for various applications:
-- With Global Ensemble Forecast System (GEFS) hindcasts of environments, we used the tornado outbreak index to evaluate prediction skill of tornado outbreaks (Malloy and Tippett 2024, in revision), finding that there may be skill in winter, spring, and fall past the weather (>7-day lead) timescale.
-- In ongoing work, we are also using the GEFS hindcasts to construct a synthetic event set of tornado outbreaks to better understand present-day risk of tornado outbreaks and climate-related shifts in outbreak activity (Malloy and Tippett, in prep). 
-
-<br><img src="/assets/img/outbreak_1.png" width="90%"><br>
+<br><img src="/assets/img/GPLLJ_3.jpg" width="90%"><br>
 
 ---
 
