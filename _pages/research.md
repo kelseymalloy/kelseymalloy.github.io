@@ -30,8 +30,6 @@ The tornado outbreak index is being used for various applications:
 - In ongoing work, we are using the GEFS hindcasts to construct a synthetic event set of tornado outbreaks to better understand present-day risk of tornado outbreaks and climate-related shifts in outbreak activity (Malloy and Tippett, 2025, submitted).
 - In ongoing work, we are developing a tornado count model specifically for CMIP6 applications to downscale future tornado projections and better understand present-day changes (Malloy et al, 2025).
 
-<br><img src="/assets/img/outbreak_1.png" width="90%"><br>
-
 ### U.S. Summer Hydroclimate Predictability via Monsoon-forced Teleconnections
 
 The East Asian monsoon (EAM) can excite a cross-Pacific Rossby wave train. We analyzed the EAM-forced teleconnection using observations and a hierarchy of climate models in Malloy and Kirtman (2022). Observations indicate a statistically significant relationship between a strong EAM and wet anomalies over U.S. west coast and Plains-Midwest, and ENSO modulates the EAM-forced teleconnection over North America. 
