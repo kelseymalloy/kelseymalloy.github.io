@@ -9,11 +9,15 @@ description: Publications, Invited Talks, Education, Research, Teaching, Service
 
 ### Publications
 
-<u>Malloy, K.</u>, Faranda, D., and Tippett, M.K. (2025). Observations-only Event Attribution of Climate Change Influence on Recent U.S. Tornado Outbreaks. <i>Earth's Future</i>, submitted. 
+<u>Malloy, K.</u>, Faranda, D., and Tippett, M.K. (2025). Observations-only Event Attribution of Climate Change Influence on Recent U.S. Tornado Outbreaks. <i>Earth's Future</i>, in prep. 
+<br><br> 
+<u>Malloy, K.</u>, Fricker, T., Schroder, Z., and Burow, D. (2025). Exploring Recent Changes in Tornado Activity via an Environment-based Tornado Count Model for CMIP6 Applications. <i>J. Climate</i>, submitted.
 <br><br>
-Kirtman, B.P., <u>et al.</u>, (2024). A Simplified Physics Atmosphere General Circulation Model for Idealized Climate Dynamics Studies. <i>Bull. Am. Meteorol. Soc.</i>, in revision. 
+<u>Malloy, K.</u> and Tippett, M.K. (2025). A Global Ensemble Forecast System (GEFS)-based Synthetic Event Set of US Tornado Outbreaks. <i>Natural Hazards and Earth System Sciences</i>, submitted.
 <br><br>
-<u>Malloy, K.</u> and Tippett, M.K. (2024). Forecasting U.S. Tornado Outbreak Activity and Associated Environments in the Global Ensemble Forecast System (GEFS). <i>Wea. Forecasting</i>, [https://doi.org/10.1175/WAF-D-24-0138.1](https://doi.org/10.1175/WAF-D-24-0138.1)
+Kirtman, B.P., <u>et al.</u>, (2025). A Simplified Physics Atmosphere General Circulation Model for Idealized Climate Dynamics Studies. <i>Bull. Am. Meteorol. Soc.</i>, [https://doi.org/10.1175/BAMS-D-24-0196.1](https://doi.org/10.1175/BAMS-D-24-0196.1). 
+<br><br>
+<u>Malloy, K.</u> and Tippett, M.K. (2025). Forecasting U.S. Tornado Outbreak Activity and Associated Environments in the Global Ensemble Forecast System (GEFS). <i>Wea. Forecasting</i>, [https://doi.org/10.1175/WAF-D-24-0138.1](https://doi.org/10.1175/WAF-D-24-0138.1)
 <br><br>
 Tippett, M.K., <u>Malloy, K.</u>, and Lee, S.H. (2023). Modulation of U.S. tornado activity by year-round North American weather regimes. <i>Mon. Wea. Review</i>, [https://doi.org/10.1175/MWR-D-24-0016.1](https://doi.org/10.1175/MWR-D-24-0016.1).
 <br><br>
