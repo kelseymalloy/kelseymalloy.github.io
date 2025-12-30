@@ -45,7 +45,7 @@ B.S.: University of Maryland, College Park | <i>2017</i>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Minor: Geography-Remote Sensing of Environmental Change
 
 ### Professional Experience
-#### Assistant Professor in Climatology, Department of Geography and Spatial Sciences, University of Delaware
+#### Assistant Professor, Department of Geography and Spatial Sciences, University of Delaware
 <i>January 2025-Present</i>
 
 #### Postdoctoral Research Scientist, Department of Applied Physics and Applied Mathematics, Columbia University
