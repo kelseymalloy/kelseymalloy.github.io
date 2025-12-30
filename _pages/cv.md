@@ -2,10 +2,10 @@
 layout: page
 permalink: /cv/
 title: CV
-description: Publications, Invited Talks, Education, Research, Teaching, Service, Skills.
+description: Publications, Education, Experience.
 ---
 
-[PDF download](/assets/pdf/KelseyMalloy_CV_Jan2025.pdf){:target="_blank"}
+<!-- [PDF download](/assets/pdf/KelseyMalloy_CV_Jan2025.pdf){:target="_blank"}-->
 
 ### Publications
 
