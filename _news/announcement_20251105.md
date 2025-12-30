@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-04-30
+date: 2025-11-05
 title: Kelsey Malloy has participated in the TEDxUniversityofDelaware event. Watch it here!
 inline: true
 related_posts: false
