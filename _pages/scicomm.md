@@ -35,11 +35,11 @@ While severe convective storms are largely triggered and described by small-scal
 <!-- blank line -->
 <iframe width="840" height="472.5" src="https://www.youtube.com/embed/WfwlCQAf8kM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## North Atlantic Oscillation: An Example of the Importance of <i>Timescale</i>
+<!--## North Atlantic Oscillation: An Example of the Importance of <i>Timescale</i>
 
 The North Atlantic Oscillation (NAO) is an important climate pattern since it describes a large part of temperature and precipitation variability for eastern North America and Europe. It exhibits variability on various timescales, so its influence really depends on the timescale of interest. This is demonstrated below by calculating the monthly, seasonal, annual, and decadal NAO index, which can mean different signs (phases) depending on which timescale you're interested in. Learn more about NAO in this [Seasoned Chaos blog post](https://seasonedchaos.github.io/Seasoned-Chaos-presents-the-North-Atlantic-Oscillation/).
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~kelseymalloy/10.embed" height="525" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~kelseymalloy/10.embed" height="525" width="100%"></iframe> -->
 
 ## El Niño-Southern Oscillation (ENSO)
 
@@ -57,7 +57,7 @@ ENSO develops in the tropical Pacific and can be characterized by a feedback loo
 
 This interactive image was created for this [Seasoned Chaos blog post](https://seasonedchaos.github.io/What-Can-the-Tropics-Tell-Us-About-Next-Weeks-Weather/). It shows all the timescales of the weather and climate system and the processes that go into forecasting the different scales. The interactive part allows you to click the timescales to focus on the particular processes; by hovering over the pie pieces, you can find a brief description. This image does not indicate any actual percentages of variability for each process nor is it an exhaustive list. Also, a process may belong to more than one parent timescale (e.g. ENSO can be seasonal or year-to-year).
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~kelseymalloy/1.embed" height="525" width="100%"></iframe>
+<iframe src="{{ '/assets/img/weather_pattern_pie.html' | relative_url }}" width="90%" height=600></iframe>
 
 ## Other Graphics
 
