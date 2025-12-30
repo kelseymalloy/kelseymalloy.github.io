@@ -33,28 +33,6 @@ Tippett, M.K., <u>Malloy, K.</u>, and Lee, S.H. (2024). Modulation of U.S. torna
 <br><br>
 Mahoney, K., D. Swales, M.J. Mueller, M. Alexander, M. Hughes, and <u>K. Malloy</u>. (2018). An Examination of an Inland-Penetrating Atmospheric River Flood Event under Potential Future Thermodynamic Conditions. <i>J. Climate</i>, 31, 6281–6297, [https://doi.org/10.1175/JCLI-D-18-0118.1](https://doi.org/10.1175/JCLI-D-18-0118.1).
 
-### Invited Talks
-
-<!-- <i>Understanding Evolving Climate Variability and Risk for Severe Convective Storms</i> | Univ. Maryland Atmospheric and Oceanic Sciences Dept. Seminar | May 2025
-<br><br> -->
-<i>How Climate is Influencing Weather Extremes</i> | Stroud Water Research Center​ | April 2025
-<br><br>
-<i>Predictable Climate Variability and its Applications to Climate Forecasting and Risk</i> | University of North Dakota Dept. Atmoshperic Sciences Seminar​ | October 2024
-<br><br>
-<i>Modeling Severe Convective Storms: Understanding Current Risk andits Climate Signals</i> | ILS Bermuda Convergence Conference 2024​ | October 2024
-<br><br>
-<i>A Stochastic Statistical Model for U.S. Outbreak-level Tornado Occurrence based on the Large-scale Environment</i> | Laboratoire de Science du Climat et de l'Environnement (LSCE)​ | January 2024
-<br><br>
-<i>Subseasonal Great Plains Rainfall via Remote Extratropical Teleconnections: ​Regional Application of Theory-guided ​Causal Networks​</i> | AGU Early Career Science Seminar​ | March 2023
-<br><br>
-<i>Predictability of U.S. Great Plains Summer Hydroclimate via ​Extratropical Teleconnections​</i> | Lamont-Doherty Earth Observatory (LDEO) Ocean and Climate Physics (OCP) Seminar | February 2023
-<br><br>
-<i>Subseasonal Great Plains Rainfall via Remote Extratropical Teleconnections: ​Application of Theory-guided ​Causal Networks​</i> | AGU Annual Meeting Session on S2S Prediction | December 2022
-<br><br>
-<i>Predictability of ​ U.S. Great Plains Summer Hydroclimate via East Asian Monsoon-forced Teleconnection​</i> | NASA GMAO Seasonal Prediction Group | June 2022
-<!-- <br><br>
-<i>Predictability of the Great Plains Low-level Jet and its Associated Precipitation​</i> | NMME Monthly Meeting | February 2020 -->
-
 ### Education
 Ph.D.: University of Miami Rosenstiel School of Marine & Atmospheric Science | <i>2022</i>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Department of Atmospheric Sciences
@@ -82,7 +60,7 @@ Co-founder, Writer, Editor, [Seasoned Chaos](https://seasonedchaos.github.io) bl
 <br>Mentor, Rosenstiel School Graduate-Undergraduate Mentoring (GUM) program | <i>2021-2022</i>
 <br>Lead Coordinator, Rosenstiel School Students for Students outreach program | <i>2020-2022</i>
 
-### Awards
+<!-- ### Awards
 * Highly Commended, InsuranceERM Climate risk research paper of the year for <i>A Stochastic Statistical Model for U.S. Outbreak-level Tornado Occurrence based on the Large-scale Environment</i>
 * Runner-up, 2020-2021 Rosenstiel School Student Seminar <i>Best Presentation Skills</i> award
 * Finalist, Rosenstiel School Outstanding Outreach Award
@@ -91,7 +69,7 @@ Co-founder, Writer, Editor, [Seasoned Chaos](https://seasonedchaos.github.io) bl
 * 2017 Richard Jordan Scholar (for atmospheric & oceanic science senior thesis presentations)
 * 2016-2017 Outstanding Student Service in Atmos. & Oceanic Science Department
 * 2014-2017 Jeffrey & Lily Chen Scholar (for atmospheric & oceanic science majors)
-* 2015-2016 NOAA Ernest F. Hollings Scholar
+* 2015-2016 NOAA Ernest F. Hollings Scholar -->
 <br><br>
 <div class="img_row">
     <img class="col three left" src="{{ site.baseurl }}/assets/img/NYCaerial.jpeg" alt="" title="NYC from the plane"/>
