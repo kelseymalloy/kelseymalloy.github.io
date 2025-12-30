@@ -5,7 +5,7 @@ permalink: /people/
 description: Group members in Malloy climate research group.
 ---
 
-Please see Opporunities tab for information about potential openings in my group.
+Please see Opportunities tab for information about potential openings in my group.
 
 <div class="img_row">
     <img class="col one left" src="{{ site.baseurl }}/assets/img/headshot_malloy.jpg" alt="" title="kmalloy"/>
