@@ -6,7 +6,7 @@ description: Group members in Malloy climate research group.
 ---
 
 <i>Please see Opportunities tab for information about potential openings in my group.</i>
-<br><br><br>
+<br><br>
 
 <div style="overflow: auto;">
   <img 
@@ -27,7 +27,7 @@ description: Group members in Malloy climate research group.
     weather/climate forecasting.
   </p>
 </div>
-
+<br><br>
 <div style="overflow: auto;">
   <img 
     src="{{ site.baseurl }}/assets/img/afanning_headshot.jpg"
