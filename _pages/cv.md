@@ -13,7 +13,7 @@ description: Publications, Education, Experience.
 <br><br> 
 <u>Malloy, K.</u>, Fricker, T., Schroder, Z., and Burow, D. (2025). Exploring Recent Changes in Tornado Activity via an Environment-based Tornado Count Model for CMIP6 Applications. <i>J. Climate</i>, in revision.
 <br><br>
-<u>Malloy, K.</u> and Tippett, M.K. (2025). A Global Ensemble Forecast System (GEFS)-based Synthetic Event Set of US Tornado Outbreaks. <i>Natural Hazards and Earth System Sciences</i>, in revision.
+<u>Malloy, K.</u> and Tippett, M.K. (2025). A Global Ensemble Forecast System (GEFS)-based Synthetic Event Set of US Tornado Outbreaks. <i>Natural Hazards and Earth System Sciences</i>, [https://doi.org/10.5194/nhess-26-433-2026](https://doi.org/10.5194/nhess-26-433-2026)
 <br><br>
 Kirtman, B.P., <u>et al.</u>, (2025). A Simplified Physics Atmosphere General Circulation Model for Idealized Climate Dynamics Studies. <i>Bull. Am. Meteorol. Soc.</i>, [https://doi.org/10.1175/BAMS-D-24-0196.1](https://doi.org/10.1175/BAMS-D-24-0196.1). 
 <br><br>
