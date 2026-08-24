@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Kelsey Malloy has been selected as a DENIN Faculty Fellow! She will lead a project on developing climate risk assessments across different sectors for DE. [Read about it here!]([https://youtu.be/AwJ4Zeq4slM?si=ARqoISwYfxUMT8Rk](https://www.udel.edu/udaily/2026/june/denin-faculty-fellows-environmental-solutions-innovation/))
+Kelsey Malloy has been selected as a DENIN Faculty Fellow! She will lead a project on developing climate risk assessments across different sectors for DE. [Read about it here!](https://www.udel.edu/udaily/2026/june/denin-faculty-fellows-environmental-solutions-innovation/)
