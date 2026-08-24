@@ -28,6 +28,7 @@ description: Group members in Malloy climate research group.
   </p>
 </div>
 <br><br>
+<h2>Graduate Students</h2>
 <div style="overflow: auto;">
   <img 
     src="{{ site.baseurl }}/assets/img/afanning_headshot.jpg"
