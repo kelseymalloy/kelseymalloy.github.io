@@ -43,7 +43,7 @@ description: Group members in Malloy climate research group.
   </p>
 <div style="overflow: auto;">
   <img 
-    src="{{ site.baseurl }}/assets/img/headshot_mdonahue.jpg"
+    src="{{ site.baseurl }}/assets/img/mdonahue_headshot.jpg"
     alt="Matt Donahue"
     title="mdonahue"
     style="float: left; margin: 0 20px 10px 0; width: 200px;"
