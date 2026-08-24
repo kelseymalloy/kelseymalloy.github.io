@@ -27,8 +27,9 @@ description: Group members in Malloy climate research group.
     weather/climate forecasting.
   </p>
 </div>
-<br><br>
+<br>
 <h2>Graduate Students</h2>
+<br>
 <div style="overflow: auto;">
   <img 
     src="{{ site.baseurl }}/assets/img/afanning_headshot.jpg"
